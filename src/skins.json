@@ -1,0 +1,3943 @@
+{
+    "data": [
+        {
+            "subDir": "A Man (City of Mist)",
+            "imagePath": "/skins/A%20Man%20(City%20of%20Mist)/preview.png",
+            "metadata": {
+                "name": "A Man (City of Mist)",
+                "source": "https://skins.hk-modding.org/share/amanbybluebean",
+                "author": "Bluebean",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, Compass, DreamArrival, Dreamnail, Hatchling, Hornet, HUD, Knight, Liquid, OrbFull, Quirrel, Shade, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths, Deepnest_32, GG_Nosk, Room_Bretta, Room_Colosseum_01, Waterways_15",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Acid",
+            "imagePath": "/skins/Acid/preview.png",
+            "metadata": {
+                "name": "Acid",
+                "source": "https://drive.google.com/file/d/1W-dc89PeSxHIUaX0hNPE0cPAYUwQkBys/view?usp=drive_link",
+                "author": "Mickely",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Aether Phase",
+            "imagePath": "/skins/Aether%20Phase/preview.png",
+            "metadata": {
+                "name": "Aether Phase",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/952167716343644250",
+                "author": "Ether-以太",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint, VoidSpells",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Aksu Hud",
+            "imagePath": "/skins/Aksu%20Hud/preview.png",
+            "metadata": {
+                "name": "Aksu Hud",
+                "source": "https://drive.google.com/drive/folders/1JhctH7y7xKZiDnQeWwSh3TMlMJILeKJL",
+                "author": "Raistly[WTP]",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "Hatchling, HUD, Knight_NailArt, OrbFull",
+                "dateAdded": "2025-05-23"
+            }
+        },
+        {
+            "subDir": "Amogus",
+            "imagePath": "/skins/Amogus/preview.png",
+            "metadata": {
+                "name": "Amogus",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/843193798368690196",
+                "author": "A Mongoose",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Some Charms, HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Among Us",
+            "imagePath": "/skins/Among%20Us/preview.png",
+            "metadata": {
+                "name": "Among Us",
+                "source": "https://drive.google.com/drive/folders/1rUFByniz3WhsWVsU1JqmzWMkXbXHrP4-",
+                "author": "草莓Amon",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Angel Knight (1.0)",
+            "imagePath": "/skins/Angel%20Knight%20(1.0)/preview.png",
+            "metadata": {
+                "name": "Angel Knight (1.0)",
+                "source": "https://drive.google.com/file/d/1RrT7v1qCNkpr4Dgz8RSyVJSo9v4ksf9A/view?usp=drive_link",
+                "author": "Akivaq",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "All Charms, DoubleFeather, DreamArrival, Fluke, Geo, Hatchling, HitPt, HUD, Knight, Leak, Liquid, OrbFull, Shade, ShadowDashBlobs, Shield, Shriek, Unn, VoidSpells, VS, Weaver, Wings, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Angel Knight (1.1)",
+            "imagePath": "/skins/Angel%20Knight%20(1.1)/preview.png",
+            "metadata": {
+                "name": "Angel Knight (v1.1)",
+                "source": "https://drive.google.com/file/d/1_LgcwjKvHmIAMqA5Wq2dk5qYnjVcyu6w/view?usp=drive_link",
+                "author": "Akivaq",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "All Charms, DoubleFeather, DreamArrival, Fluke, Geo, Hatchling, HitPt, HUD, Knight, Leak, Liquid, OrbFull, Quirrel, Shade, ShadeOrb, ShadowDashBlobs, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Wings, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Angel Knight (1.2)",
+            "imagePath": "/skins/Angel%20Knight%20(1.2)/preview.png",
+            "metadata": {
+                "name": "Angel Knight (v1.2)",
+                "source": "https://drive.google.com/file/d/1-ZbWeEcUjkd1lHV2TBgRLIw-ZQr4-2uc/view?usp=drive_link",
+                "author": "Akivaq",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "All Charms, DoubleFeather, DreamArrival, Fluke, Geo, Hatchling, HitPt, HUD, Knight, Leak, Liquid, OrbFull, Quirrel, Shade, ShadeOrb, ShadowDashBlobs, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Wings, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Anomaly Beta",
+            "imagePath": "/skins/Anomaly%20Beta/preview.png",
+            "metadata": {
+                "name": "Anomaly Beta",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/944480872223105034",
+                "author": "燚之虚",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, OrbFull(x3), Sprint, VoidSpells, VS",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Apple Green Colour Knight",
+            "imagePath": "/skins/Apple%20Green%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Apple Green Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Aqua Colour Knight",
+            "imagePath": "/skins/Aqua%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Aqua Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Aspid Grimmchild",
+            "imagePath": "/skins/Aspid%20Grimmchild/preview.png",
+            "metadata": {
+                "name": "Aspid Grimmchild",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/964398627160203294",
+                "author": "XH-土星Saturn",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "Grimmchild",
+                "dateAdded": "2025-05-23"
+            }
+        },
+        {
+            "subDir": "Aspid HUD",
+            "imagePath": "/skins/Aspid%20HUD/preview.png",
+            "metadata": {
+                "name": "Aspid HUD",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/949891931704549457",
+                "author": "芈蓺藜雨",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "HUD, OrbFull",
+                "dateAdded": "2025-05-23"
+            }
+        },
+        {
+            "subDir": "Baby Mantis",
+            "imagePath": "/skins/Baby%20Mantis/preview.png",
+            "metadata": {
+                "name": "Baby Mantis",
+                "source": "https://drive.google.com/file/d/1vxfBOZ0swd0RSvw7075lvHotN8bkKQGq/view?usp=sharing",
+                "author": "Northflowo",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, Compass, DreamArrival, Dreamnail, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shade, Shriek, Sprint, Unn, Webbed,  Wings",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Beige Colour Knight",
+            "imagePath": "/skins/Beige%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Beige Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Black & White Chidori",
+            "imagePath": "/skins/Black%20%26%20White%20Chidori/preview.png",
+            "metadata": {
+                "name": "Black & White Chidori",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/970616547917824020",
+                "author": "kashenmir",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, VoidSpells",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Black Colour Knight",
+            "imagePath": "/skins/Black%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Black Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Black Prince",
+            "imagePath": "/skins/Black%20Prince/preview.png",
+            "metadata": {
+                "name": "Black Prince",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/949891091837100063",
+                "author": "Ozymandiazz",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Hatchling, HUD,Knight, OrbFull, VoidSpells, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Blood Knight",
+            "imagePath": "/skins/Blood%20Knight/preview.png",
+            "metadata": {
+                "name": "Blood Knight",
+                "source": "https://drive.google.com/file/d/1Sw4sAh6x_U9FOGK9E3MaMB86ePbtmDxW/view?usp=drive_link",
+                "author": "Akivaq",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Some Charms, Cloak, DreamArrival, Dreamnail, HUD, Knight, OrbFull, Shriek, Sprint, Unn, VoidSpells, Weaver, Wings",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Blue Among Us",
+            "imagePath": "/skins/Blue%20Among%20Us/preview.png",
+            "metadata": {
+                "name": "Blue Among Us",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1222360289471627274",
+                "author": "Ismoil",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Blue Dragon",
+            "imagePath": "/skins/Blue%20Dragon/preview.png",
+            "metadata": {
+                "name": "Blue Dragon",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1134100968993198110",
+                "author": "",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Blue Story",
+            "imagePath": "/skins/Blue%20Story/preview.png",
+            "metadata": {
+                "name": "Blue Story",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/943891737686974484",
+                "author": "路过哒雪",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Some Charms, Cloak, Custom HP Bars, DreamArrival, DreamNail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, SkullLeft, SkullRight, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Blue-Purple Gradient",
+            "imagePath": "/skins/Blue-Purple%20Gradient/preview.png",
+            "metadata": {
+                "name": "Blue-Purple Gradient",
+                "source": "https://drive.google.com/drive/folders/1kT5-Et4FRwhfdpxOy9q6VNn837aQe483",
+                "author": "影风swrs",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shriek, SkullLeft, SkullRight, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Bluish Green Colour Knight",
+            "imagePath": "/skins/Bluish%20Green%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Bluish Green Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Blurple Colour Knight",
+            "imagePath": "/skins/Blurple%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Blurple Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Brazilian Knight",
+            "imagePath": "/skins/Brazilian%20Knight/preview.png",
+            "metadata": {
+                "name": "Brazilian Knight",
+                "source": "https://drive.google.com/file/d/1Rslb-dTY4zkmrtnLVv6FJ6qF9YSZSo8W/view?usp=drive_link",
+                "author": "",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Hatchling, Hornet, HUD, Knight, KnightDreamGate,OrbFull, Quirrel, Shriek, SkullLeft, SkullRight, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Brick Colour Knight",
+            "imagePath": "/skins/Brick%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Brick Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Bright Blue Colour Knight",
+            "imagePath": "/skins/Bright%20Blue%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Bright Blue Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Bright Orange Colour Knight",
+            "imagePath": "/skins/Bright%20Orange%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Bright Orange Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Bright Purple Colour Knight",
+            "imagePath": "/skins/Bright%20Purple%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Bright Purple Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Bright Red Colour Knight",
+            "imagePath": "/skins/Bright%20Red%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Bright Red Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Brown Among Us",
+            "imagePath": "/skins/Brown%20Among%20Us/preview.png",
+            "metadata": {
+                "name": "Brown Among Us",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1222360289471627274",
+                "author": "Ismoil",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Brown Colour Knight",
+            "imagePath": "/skins/Brown%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Brown Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Bubblegum Colour Knight",
+            "imagePath": "/skins/Bubblegum%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Bubblegum Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Butterfly",
+            "imagePath": "/skins/Butterfly/preview.png",
+            "metadata": {
+                "name": "Butterfly",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/943872407180046497",
+                "author": "薇洛薇洛薇",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, OrbFull, VoidSpells",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "CHARA (1.0)",
+            "imagePath": "/skins/CHARA%20(1.0)/preview.png",
+            "metadata": {
+                "name": "CHARA (1.0)",
+                "source": "https://drive.google.com/drive/folders/1-_5CDehgVebV9zIxPasSnWD18zjZbxYY",
+                "author": "the dog next door",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, OrbFull, Sprint, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Cactus Knight",
+            "imagePath": "/skins/Cactus%20Knight/preview.png",
+            "metadata": {
+                "name": "Cactus Knight",
+                "source": "https://gamejolt.com/p/i-create-a-mod-of-cactus-haha-p8ypeppm",
+                "author": "Carlos Weao",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Hatchling, Knight, OrbFull, VoidSpells",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Cat God",
+            "imagePath": "/skins/Cat%20God/preview.png",
+            "metadata": {
+                "name": "Cat God",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/950916148931747871",
+                "author": "泠湜lince",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Fluke, Geo, Hatchling, HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Celeste Crystal",
+            "imagePath": "/skins/Celeste%20Crystal/preview.png",
+            "metadata": {
+                "name": "Celeste Crystal",
+                "source": "https://drive.google.com/drive/folders/1uyq71utzsO3SWdGtJySj3BuBOo2aL6F2",
+                "author": "LichOne#5951",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Chara (3.0)",
+            "imagePath": "/skins/Chara%20(3.0)/preview.png",
+            "metadata": {
+                "name": "Chara (3.0)",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/943891057479913524",
+                "author": "the dog next door",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, All Charms, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek,Sprint, unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Chattini",
+            "imagePath": "/skins/Chattini/preview.png",
+            "metadata": {
+                "name": "Chattini",
+                "source": "https://drive.google.com/file/d/1mjN-F5uoyj2d3aDbcvl8oknzx-3fXEfu/view",
+                "author": "tawam_103",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, Compass, DoubleJFeather, DreamArrival, DreamNail, Fluke, Hatchling, Hornet, Knight, Quirrel, Shriek, Sprint, Unn, VoidSpells, Weaver, Webbed, Wings, Wraiths, Nosk, Radiance, Room_Bretta, Grubs",
+                "dateAdded": "2025-02-24"
+            }
+        },
+        {
+            "subDir": "Child of Void",
+            "imagePath": "/skins/Child%20of%20Void/preview.png",
+            "metadata": {
+                "name": "Child of Void",
+                "source": "https://drive.google.com/drive/folders/1OFKTqzE2Q6YSCjPaFovy9TvRHbbFL_g4",
+                "author": "little.ghost.",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, Compass, DreamArrival, Dreamnail, Hornet, Knight, Quirrel (2x), Shade, Shriek, Sprint, Unn, Webbed, Wings, Abyss_19, Deepnest_30, Dream_03_Infected_Knight, Dream_Final_Boss, Fungus2_01, Fungus2_14, Fungus3_archive_02, GG_Workshop, Ruins1_27, Broken Vessel, Lost Kin, The Hollow Knight",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Christmas Knight",
+            "imagePath": "/skins/Christmas%20Knight/preview.png",
+            "metadata": {
+                "name": "Christmas Knight",
+                "source": "https://drive.google.com/file/d/1AgWucMoQWO41v1FH-t4DuPyEYUOqh0dv/view?usp=drive_link",
+                "author": "MageGi",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, Hatchling, HUD, Knight, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Chtholly Nota Seniorious",
+            "imagePath": "/skins/Chtholly%20Nota%20Seniorious/preview.png",
+            "metadata": {
+                "name": "Chtholly Nota Seniorious",
+                "source": "https://drive.google.com/drive/folders/1mksErWbngcr1D3ecQDlsBTm1E8mBPajR",
+                "author": "CthollistCC",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Clean Knight",
+            "imagePath": "/skins/Clean%20Knight/preview.png",
+            "metadata": {
+                "name": "Clean Knight",
+                "source": "https://drive.google.com/drive/folders/1mksErWbngcr1D3ecQDlsBTm1E8mBPajR",
+                "author": "CthollistCC",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Cloak Template",
+            "imagePath": "/skins/Cloak%20Template/preview.png",
+            "metadata": {
+                "name": "Cloak Template",
+                "source": "https://drive.google.com/file/d/1qiAqRugKc40DVZGTegyQJFxhqHk0IjTi/view?usp=drive_link",
+                "author": "Doxel",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Clown (v1.0)",
+            "imagePath": "/skins/Clown%20(v1.0)/preview.png",
+            "metadata": {
+                "name": "Clown (v1.0)",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1079834744918921309",
+                "author": ".stufa.",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, Compass, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Hud, Knight, OrbFull, Quirrel, Shade, Shriek, Sprint, Unn, Weaver, Webbed",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Cousin",
+            "imagePath": "/skins/Cousin/preview.png",
+            "metadata": {
+                "name": "Cousin",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/964399575911792640",
+                "author": "眼泪桦桦桦的流",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Fluke, Hatchling, HUD, Knight, Sprint, VoidSpells, Weaver, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Croissant",
+            "imagePath": "/skins/Croissant/preview.png",
+            "metadata": {
+                "name": "Croissant",
+                "source": "https://drive.google.com/drive/folders/1AVlaQUH7IfVTDANpMeZB2fOwLaXcDbUQ?usp=sharing",
+                "author": "Failed Vessel",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Cloak, Compass,  DreamArrival, Dreamnail, Hornet, HUD, Knight, Leak, Liquid, OrbFull, Quirrel, ShadowDashBlobs, Shriek, Sprint, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Crystal Knight",
+            "imagePath": "/skins/Crystal%20Knight/preview.png",
+            "metadata": {
+                "name": "Crystal Knight",
+                "source": "https://drive.google.com/drive/folders/1P5aFjX5iZsvhK3SQrhBjFQ_6DGFlIcNG",
+                "author": "Ratsploder",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, DreamArrival, Geo, Grimm, Hornet, HUD, Knight, OrbFull, Quirrel, Shriek, Spell Effects, Sprint, Unn, VoidSpells, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Cub of Light",
+            "imagePath": "/skins/Cub%20of%20Light/preview.png",
+            "metadata": {
+                "name": "Cub of Light",
+                "source": "https://drive.google.com/drive/folders/1dymmrOFOTIE2QXCrReo-tuCaOtaW8xHV",
+                "author": "小祸星翼",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Cube Knight",
+            "imagePath": "/skins/Cube%20Knight/preview.png",
+            "metadata": {
+                "name": "Cube Knight",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/941911210939523074",
+                "author": "Warped jared",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Cyan Among Us",
+            "imagePath": "/skins/Cyan%20Among%20Us/preview.png",
+            "metadata": {
+                "name": "Cyan Among Us",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1222360289471627274",
+                "author": "Ismoil",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Cyan Grey Colour Knight",
+            "imagePath": "/skins/Cyan%20Grey%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Cyan Grey Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Dark Green Colour Knight",
+            "imagePath": "/skins/Dark%20Green%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Dark Green Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Dark Grey Colour Knight",
+            "imagePath": "/skins/Dark%20Grey%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Dark Grey Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Daughter of Hallownest (1.2)",
+            "imagePath": "/skins/Daughter%20of%20Hallownest%20(1.2)/preview.png",
+            "metadata": {
+                "name": "Daughter of Hallownest (1.2)",
+                "source": "https://discordapp.com/channels/283467363729408000/462200562620825600/944764222586376292",
+                "author": "",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Some Charms, Custom HP Bar, DreamArrival, Fluke, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Sprint, VoidSpells, VS, Webbed, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Daughter of the Stars",
+            "imagePath": "/skins/Daughter%20of%20the%20Stars/preview.png",
+            "metadata": {
+                "name": "Daughter of the Stars",
+                "source": "https://drive.google.com/drive/folders/1yl5KBPYcQIzRwrA5zLelVBsc9UhJedCn?usp=sharing",
+                "author": "Leggo My Eggo",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "DreamArrival, Geo, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Sprint, VoidSpells, VS, Webbed, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Dead Cells",
+            "imagePath": "/skins/Dead%20Cells/preview.png",
+            "metadata": {
+                "name": "Dead Cells",
+                "source": "https://drive.google.com/file/d/1l5LU2ydZ-tEpJdf66pmWcsSihcaO9BfR/view",
+                "author": "knife美工刀",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, DreamArrival, Fluke, Geo, Grimm, Hatchling, HUD, Knight, OrbFull, Sprint, Unn, VoidSpells, Weaver, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Default Knight",
+            "imagePath": "/skins/Default%20Knight/preview.png",
+            "metadata": {
+                "name": "Default Knight",
+                "source": "Hollow Knight (2017)",
+                "author": "Team Cherry",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Default skin",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Demon",
+            "imagePath": "/skins/Demon/preview.png",
+            "metadata": {
+                "name": "Demon",
+                "source": "https://drive.google.com/file/d/11aYOkqHuAhI60nQ2UVUy3Y5afM97BQc-/view?usp=drive_link",
+                "author": "Mickely",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Don Quixote",
+            "imagePath": "/skins/Don%20Quixote/preview.png",
+            "metadata": {
+                "name": "Don Quixote",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1324759872822181898",
+                "author": "無意識地戀",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, DreamArrival, Fluke, Hatchling, Hornet, HUD, Knight, OrbFull, Shadow Dash Collect Cln, Shriek, Sprint, Unn, Voidspells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2025-01-05"
+            }
+        },
+        {
+            "subDir": "Dyani the Shiny Princess",
+            "imagePath": "/skins/Dyani%20the%20Shiny%20Princess/preview.png",
+            "metadata": {
+                "name": "Dyani the Shiny Princess",
+                "source": "https://drive.google.com/drive/folders/1dCfSOSedIsN_TsfSzM9m80UgKGSLjEXL",
+                "author": "Loracia ART",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Some Charms, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling(x2), Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, Sprint, Unn, VoidSpells, Webbed, Wrings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Electric Blue Colour Knight",
+            "imagePath": "/skins/Electric%20Blue%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Electric Blue Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Empty Square",
+            "imagePath": "/skins/Empty%20Square/preview.png",
+            "metadata": {
+                "name": "Empty Square",
+                "source": "https://drive.google.com/drive/folders/14-bBLPWVuqDcxINBzb_8e1VAN268YYNP",
+                "author": "BlueSR",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, All Charms, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Enchanted Knight (V1)",
+            "imagePath": "/skins/Enchanted%20Knight%20(V1)/preview.png",
+            "metadata": {
+                "name": "Enchanted Knight (V1)",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1353481349775884319",
+                "author": "Electric Van",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "BrummShield, DeathAsh, DreamArrival, Dreamnail, Geo, Hatchling, Knight, Liquid, OrbFull, SDCrystalBurst, Shade, ShadeOrb, ShadowDashBlobs, Sprint, VoidSpells, VS, Weaver, Wings, Wraiths, ArenaBackgrounds, All Charms, Some Inventory, HUD",
+                "dateAdded": "2025-03-27"
+            }
+        },
+        {
+            "subDir": "Enchanted Knight (V2)",
+            "imagePath": "/skins/Enchanted%20Knight%20(V2)/preview.png",
+            "metadata": {
+                "name": "Enchanted Knight (V2)",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1353802995069882570",
+                "author": "Electric Van",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, BrummShield, DDeathpt, DeathAsh, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, HitPit, Hornet, Knight, Liquid, OrbFull, Quirrel, SDCrystalBurst, Shade, ShadeOrb, ShadowDashBlobs, Shield, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths, ArenaBackgrounds, All Charms, Some Inventory, HUD",
+                "dateAdded": "2025-03-27"
+            }
+        },
+        {
+            "subDir": "EnchantedKnight (V4)",
+            "imagePath": "/skins/EnchantedKnight%20(V4)/preview.png",
+            "metadata": {
+                "name": "Enchanted Knight (V4)",
+                "source": "https://skins.hk-modding.org/share/Wr6XbiURhA3GyRuc",
+                "author": "Electric Van",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, BrummShield, DDeathpt, DeathAsh, Deathpt, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, HitPit, Hornet, Knight, Liquid, OrbFull, Orbicon, Quirrel, SDCrystalBurst, ShadeOrb, Shade, ShadowDashBlobs, Shield, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths, All Charms, Some Area Backgrounds, Some Inventory, HUD, SaveHud, Nosk, Radiance, Some Text, ",
+                "dateAdded": "2025-05-24"
+            }
+        },
+        {
+            "subDir": "Expressive Knight",
+            "imagePath": "/skins/Expressive%20Knight/preview.png",
+            "metadata": {
+                "name": "Expressive Knight",
+                "source": "https://drive.google.com/file/d/1eujvzeyaMzt9cPzjkqW4scir4BAzBuOc/edit",
+                "author": "tigerfollery",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Hornet, HUD, Knight, OrbFull, Quirrel_Flower, Quirrel, Unn, Webbed, The Hollow Knight, Broken Vessel",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Failed Vessel",
+            "imagePath": "/skins/Failed%20Vessel/preview.png",
+            "metadata": {
+                "name": "Failed Vessel",
+                "source": "https://drive.google.com/drive/folders/1zOvu2g5ueRBiSiYMD8lyvqPLxCYdncXd",
+                "author": "Failed Vessel",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Abyss Dream Cln, Birthplace, DreamArrival, Dreamnail, Hatchling, Knight Dream Cutscene Cln, Knight Dream Gate Cln, Knight Hatchling Cln, Knight, OrbFull, Shade, SkullLeft, SkullRight, Spell Effects 2, Sprint, Unn",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Fake Blashphemy",
+            "imagePath": "/skins/Fake%20Blashphemy/preview.png",
+            "metadata": {
+                "name": "Fake Blasphemy",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/950915834417643540",
+                "author": "Wegole",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, Hatchling, HUD, Knight, OrbFull, VoidSpells, VS",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Five Pebbles",
+            "imagePath": "/skins/Five%20Pebbles/preview.png",
+            "metadata": {
+                "name": "Five Pebbles",
+                "source": "https://skins.hk-modding.org/share/DBIX9ybz",
+                "author": "lime",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cinematics, Cloak, DoubleJFeather, DreamArrival, Dreamnail, Hornet, HUD, Knight, OrbFull, Quirrel, Shade, Shriek, Sprint, Swap, Unn, VoidSpells, VS, Webbed, Wings, Wraiths, Abyss_06_Core, Abyss_21, Deepnest_32, Deepnest_40, Deepnest_East_01, Deepnest_East_Hornet, Deepnest_Spider_Town, Fungus1_04, Fungus2_18, Fungus3_44, GG_Nosk, GG_Nosk_Hornet, GG_Nosk_V, GG_Workshop, RestingGrounds_04, Room_Bretta, Room_nailmaster, Room_ruinhouse, Ruins1_27",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Fool",
+            "imagePath": "/skins/Fool/preview.png",
+            "metadata": {
+                "name": "Fool",
+                "source": "https://drive.google.com/file/d/1yXq1hGdEbBaAzKzzj_Rz5w2irAIgcPeN/view",
+                "author": "TWP",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Fox",
+            "imagePath": "/skins/Fox/preview.png",
+            "metadata": {
+                "name": "Fox",
+                "source": "https://skins.hk-modding.org/share/foxbyunknown",
+                "author": "",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Geo, Hornet, HUD, Knight (2x), OrbFull, Quirrel, Shriek, Sprint, VoidSpells (2x), Webbed, Wings, Wraiths (2x)",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Fyremoth",
+            "imagePath": "/skins/Fyremoth/preview.png",
+            "metadata": {
+                "name": "Fyremoth",
+                "source": "https://hollowknightmods.wixsite.com/customknightskins/post/fyremoth-by-rusty",
+                "author": "Rusty",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, All Charms, Cloak, DreamArrival, Dreamnail, Fluke, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Ghost",
+            "imagePath": "/skins/Ghost/preview.png",
+            "metadata": {
+                "name": "Ghost",
+                "source": "https://drive.google.com/file/d/1g8qjFZGq_UdGB0qGu5Mv5SKfJkA8NOn4/view?usp=drive_link",
+                "author": "Mickely",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Ghost (Translucent)",
+            "imagePath": "/skins/Ghost%20(Translucent)/preview.png",
+            "metadata": {
+                "name": "Ghost (Translucent)",
+                "source": "https://drive.google.com/file/d/1uNV0bMPUsuSlIIGF6U73dW89IjrlNCBi/view?usp=drive_link",
+                "author": "Mickely",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Glacier",
+            "imagePath": "/skins/Glacier/preview.png",
+            "metadata": {
+                "name": "Glacier",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/739805726377246791",
+                "author": "若梦 (dreamlike)",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Glitch Knight",
+            "imagePath": "/skins/Glitch%20Knight/preview.png",
+            "metadata": {
+                "name": "Glitch Knight",
+                "source": "https://drive.google.com/drive/folders/1-UD60H1GWAyDWVXNPaPHcfeRaqH5zbA1",
+                "author": "Annie",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Some Charms, Cloak, DreamArrival, Dreamnail, Fluke, Grimm, Hatchling, HUD, Knight, Shield, Shriek, Sprint, VoidSpells, VS, Weaver, Wings, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Graig Knight",
+            "imagePath": "/skins/Graig%20Knight/preview.png",
+            "metadata": {
+                "name": "Craig Knight",
+                "source": "https://drive.google.com/file/d/1tmrY8ESKNRXyKhV93Uat2JCrvGjpwYby/view?usp=drive_link",
+                "author": "Craig",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, Sprint",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Gray Among Us",
+            "imagePath": "/skins/Gray%20Among%20Us/preview.png",
+            "metadata": {
+                "name": "Gray Among Us",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1222360289471627274",
+                "author": "Ismoil",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Green Among Us",
+            "imagePath": "/skins/Green%20Among%20Us/preview.png",
+            "metadata": {
+                "name": "Green Among Us",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1222360289471627274",
+                "author": "Ismoil",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Green Colour Knight",
+            "imagePath": "/skins/Green%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Green Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Green Grey Colour Knight",
+            "imagePath": "/skins/Green%20Grey%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Green Grey Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Greenpath",
+            "imagePath": "/skins/Greenpath/preview.png",
+            "metadata": {
+                "name": "Greenpath",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/921058940349993000",
+                "author": "Marcelinefi",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Grey Colour Knight",
+            "imagePath": "/skins/Grey%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Grey Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Grimm Knight (Mola)",
+            "imagePath": "/skins/Grimm%20Knight%20(Mola)/preview.png",
+            "metadata": {
+                "name": "Grimm Knight",
+                "source": "https://drive.google.com/file/d/1lRKnaiCgz3Qrx3-w7ikH6Q_XzreFlyI0/view",
+                "author": "Mola",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Grimm Knight (复印纸)",
+            "imagePath": "/skins/Grimm%20Knight%20(%E5%A4%8D%E5%8D%B0%E7%BA%B8)/preview.png",
+            "metadata": {
+                "name": "Grimm Knight",
+                "source": "https://drive.google.com/drive/folders/1JWgG8bBY63lujFBvt7XKw1Y0R6WQH0Tz",
+                "author": "复印纸",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Hatchling, HUD (x2), Knight, OrbFull, Sprint, Unn, VoidSpells (x2), Vs, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Grub (v1.2)",
+            "imagePath": "/skins/Grub%20(v1.2)/preview.png",
+            "metadata": {
+                "name": "Grub (v1.2)",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/960083273890004992",
+                "author": "银黎",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Some Charms, Hatchling, HUD, Knight (incomplete), OrbFull, SDCrystalBurst, VS, Weavers",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Halloween",
+            "imagePath": "/skins/Halloween/preview.png",
+            "metadata": {
+                "name": "Halloween",
+                "source": "https://drive.google.com/drive/folders/10X476afG5jRKDtil0H2pxsdcPiGzRBLO",
+                "author": "TWP",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, Hatchling, HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Halogen Skin",
+            "imagePath": "/skins/Halogen%20Skin/preview.png",
+            "metadata": {
+                "name": "Halogen Skin",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/948094433688191017",
+                "author": "Kookycookies",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, Grimm, Hatchling, HUD, Knight, OrbFull, Sprint, Unn, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Hat Kid",
+            "imagePath": "/skins/Hat%20Kid/preview.png",
+            "metadata": {
+                "name": "Hat Kid",
+                "source": "https://drive.google.com/file/d/10SjzAtuKiNaon--CH1UwDPrf3s7EAiCv/view?usp=drive_link",
+                "author": "MTmerm",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Geo, Hatchling, Hornet, HUD, Knight, Quirrel, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Heart of Frost",
+            "imagePath": "/skins/Heart%20of%20Frost/preview.png",
+            "metadata": {
+                "name": "Heart of Frost",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/960083130444828722",
+                "author": "恍若为梦",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, Knight, Sprint",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Heavenly Emperor",
+            "imagePath": "/skins/Heavenly%20Emperor/preview.png",
+            "metadata": {
+                "name": "Heavenly Emperor",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1134100968993198110",
+                "author": "",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, HUD, Knight, OrbFull, Sprint, Unn, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Hell Inn Val",
+            "imagePath": "/skins/Hell%20Inn%20Val/preview.png",
+            "metadata": {
+                "name": "Hell Inn Val",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/949892444034580540",
+                "author": "把y改i加er",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "DreamArrival, Grimm, Hatchling, HUD, Knight, OrbFull, Sprint, Unn, VoidSpells, VS, Weaver, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "HellYeaRelyea",
+            "imagePath": "/skins/HellYeaRelyea/preview.png",
+            "metadata": {
+                "name": "HellYeaRelyea",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/800791615908216832",
+                "author": "Araraura",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Hive Knight",
+            "imagePath": "/skins/Hive%20Knight/preview.png",
+            "metadata": {
+                "name": "Hive Knight",
+                "source": "https://drive.google.com/drive/folders/1sjhtHCQzZASxMouF5cZ9lb8CyrpsfZ8S",
+                "author": "埃里Ellie",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, DreamNail, Fluke, Geo, Hornet, HUD, Knight, OrbFull (x2) Quirrel, Shriek, Sprint, Unn, VoidSpells, VS, Webbed,  Wings, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Honk Knight",
+            "imagePath": "/skins/Honk%20Knight/preview.png",
+            "metadata": {
+                "name": "Honk Knight",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/949892175838191666",
+                "author": "五氧化二幽",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Hornight",
+            "imagePath": "/skins/Hornight/preview.png",
+            "metadata": {
+                "name": "Hornight",
+                "source": "https://drive.google.com/drive/folders/1MOd4LjkIquFKhGtt16QO6dFzAhsSKcpL",
+                "author": "LichOne#5951",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Hylian Knight",
+            "imagePath": "/skins/Hylian%20Knight/preview.png",
+            "metadata": {
+                "name": "Hylian Knight",
+                "source": "https://drive.google.com/drive/folders/1znEO-dWdBif30Sgkv91yrUNQgn30tQAv",
+                "author": "Snozzer",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Some Charms, Cinematics, Cloak, Compass, DeathNail, DoubleJFeather, DreamArrival, Dreamnail, Geo, Hatchling, Hornet, HUD, Inventory, Knight, OrbFull, Quirrel, SDCrystalBurst, Shade, Shriek, Sprint, Unn, VS, Webbed, Wings, Wraiths, Abyss_04, Deepnest_32, Dream_Final_Boss, Fungus2_26, GG_Nosk, GG_Nosk_V, Menu_Title, Room_Charm_Shop, Room_mapper, Room_shop, Ruins1_05b, Tutorial_01",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Illyia Knight",
+            "imagePath": "/skins/Illyia%20Knight/preview.png",
+            "metadata": {
+                "name": "Illyia Knight",
+                "source": "https://drive.google.com/drive/folders/1SEveE7_AVwHKrZLrimnJpSbiAdijlAG-",
+                "author": "Gnollbold",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Beam, Birthplace, Cinematics, Cloak, Compass, DoubleJFeather, DreamArrival, DreamNail, Hornet, HUD, Knight, Liquid, OrbFull, QOrbs, Quirrel, ScrOrbs, ShadowDashBlobs, Shriek, Sprint, Unn, Voidspells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Infected",
+            "imagePath": "/skins/Infected/preview.png",
+            "metadata": {
+                "name": "Infected",
+                "source": "https://drive.google.com/file/d/1FgDBGZrkUT02l9v4GwaPKqTBR9JH_jju/view?usp=drive_link",
+                "author": "",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Infected Knight",
+            "imagePath": "/skins/Infected%20Knight/preview.png",
+            "metadata": {
+                "name": "Infected Knight",
+                "source": "https://drive.google.com/drive/folders/145aOogQPqzHUIC4JlSOJTz5X8kb7d-N3",
+                "author": "复印纸",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Hatchling, HUD, Knight, OrbFull, Sprint, VoidSpells",
+                "dateAdded": "2024-12-18"
+            }
+        },
+        {
+            "subDir": "Infection of Light",
+            "imagePath": "/skins/Infection%20of%20Light/preview.png",
+            "metadata": {
+                "name": "Infection of Light",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/944480872223105034",
+                "author": "芈蓺藜雨",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, All Charms, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, SkullLeft, SkullRight, Sprint, Unn, VoidSpells, VS, Weaver,  Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Invisibility",
+            "imagePath": "/skins/Invisibility/preview.png",
+            "metadata": {
+                "name": "Invisibility",
+                "source": "https://drive.google.com/file/d/1tTK8C8D3mueHHA9ZEjXCP4yRcCSszkSf/view?usp=drive_link",
+                "author": "",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Iron",
+            "imagePath": "/skins/Iron/preview.png",
+            "metadata": {
+                "name": "Iron",
+                "source": "https://drive.google.com/file/d/1MoJrvHAFnpzyWmEG_Gy9YRxkAfelbcIM/view?usp=drive_link",
+                "author": "Mickely",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Isaac Knight",
+            "imagePath": "/skins/Isaac%20Knight/preview.png",
+            "metadata": {
+                "name": "Isaac Knight",
+                "source": "https://drive.google.com/drive/folders/1uWwZsIUwULmnIyLhMi8bSODz8jzh6lON",
+                "author": "Minishlink",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "All Charms, Cloak, Compass, Fluke, Geo, Grimm, Hatchling, HitPt, HUD, Inventory, Knight, Leak, Liquid, OrbFull, QOrbs (2x), ScrOrbs (2x), SDCrystalBurst, ShadeOrb, Shade, ShadowDashBlobs, Shield, Sprint, Unn, VoidSpells, VS, Weaver, Wraiths, Deepnest_32, GG_Nosk, GG_Nosk_V, Room_nailmaster_03, HPBar, Transcendence Charms",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Jade Colour Knight",
+            "imagePath": "/skins/Jade%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Jade Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Jellyfish Knight",
+            "imagePath": "/skins/Jellyfish%20Knight/preview.png",
+            "metadata": {
+                "name": "Jellyfish Knight",
+                "source": "https://drive.google.com/drive/folders/1IMVVpumkqwfh2UBa3nTbqAERatCKQSGB",
+                "author": "碳烤番茄鸡肉卷",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Cloak, Compass, DreamArrival, Hatchling, Hornet, HUD, Knight OrbFull, Quirrel, Shriek, Sprint, VoidSpels, Webbed, Wings",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "KH2 Sora Knight",
+            "imagePath": "/skins/KH2%20Sora%20Knight/preview.png",
+            "metadata": {
+                "name": "KH2 Sora Knight",
+                "source": "https://drive.google.com/file/d/1urGPRwyxJOcBJU9VMpgo7gV1Ntx9Vkb1/view?usp=drive_link",
+                "author": "Maximal Nightwing",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Kakyoin Noriaki",
+            "imagePath": "/skins/Kakyoin%20Noriaki/preview.png",
+            "metadata": {
+                "name": "Kakyoin Noriaki",
+                "source": "https://discordapp.com/channels/283467363729408000/462200562620825600/944764222586376292",
+                "author": "Blue Gauze",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Compass Icon, Geo, Grimm, Hatchling, HUD, Knight, Sprint, Unn, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "KarK’s Pirate",
+            "imagePath": "/skins/KarK%E2%80%99s%20Pirate/preview.png",
+            "metadata": {
+                "name": "KarK's Pirate",
+                "source": "https://drive.google.com/drive/folders/1ig_MLkgaPQYBgn2DSlZ-b56A9IwUxrr-",
+                "author": "KarK",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Compass, DreamArrival, Dreamnail, Knight, OrbFull, Quirrel, Sprint, VoidSpells, Webbed, ] [Swaps for: Abyss_19, Crossroads_50, Fungus3_23_boss, Fungus3_Archive, Fungus3_Archive_02, GG_Brooding_Mawlek_V, GG_Galien, GG_Ghost_Gorb, GG_Ghost_Gorb_V, GG_Sly, Global, Room_Colosseum_01, Room_Colosseum_Bronze, Room_Colosseum_Gold, Room_Colosseum_Silver, Room_Final_Boss_Core, Town",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Killer Whale",
+            "imagePath": "/skins/Killer%20Whale/preview.png",
+            "metadata": {
+                "name": "Killer Whale",
+                "source": "https://discordapp.com/channels/283467363729408000/462200562620825600/944764222586376292",
+                "author": "Scorpion Rufeul",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Some Charms, Cloak, DreamArrival, DreamNail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, SkullLeft, SkullRight, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "King Crimson",
+            "imagePath": "/skins/King%20Crimson/preview.png",
+            "metadata": {
+                "name": "King Crimson",
+                "source": "https://drive.google.com/drive/folders/1icPk3B7gIvoX8y6udcZgiEDlt6onaVT_",
+                "author": "LichOne#5951",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Kuneho",
+            "imagePath": "/skins/Kuneho/preview.png",
+            "metadata": {
+                "name": "Kuneho",
+                "source": "https://drive.google.com/drive/folders/1DBPZ2BDVGsjfdRk0wdaundutI3ulgMSm",
+                "author": "SAD-ist",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Hatchling, Hornet, HUD, Knight, OrbFull, Shade, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Lapis Lightning",
+            "imagePath": "/skins/Lapis%20Lightning/preview.png",
+            "metadata": {
+                "name": "Lapis Lightning",
+                "source": "https://drive.google.com/drive/folders/1w4jXSdh-1dsndKhQuEt33x1aC7CeskkD",
+                "author": "Biscuit",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-22"
+            }
+        },
+        {
+            "subDir": "Laurel Knight",
+            "imagePath": "/skins/Laurel%20Knight/preview.png",
+            "metadata": {
+                "name": "Laurel Knight",
+                "source": "https://drive.google.com/drive/folders/1IkzIjlg1HzfxmG-sg1piFbYexNawr44Y",
+                "author": "Raistly",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, Hatchling, HUD (x2) Knight, OrbFull (x2) Sprint, VoidSpells, VS, Weavers, Wraiths",
+                "dateAdded": "2024-11-22"
+            }
+        },
+        {
+            "subDir": "Lavender Colour Knight",
+            "imagePath": "/skins/Lavender%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Lavender Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Lifeblood Knight",
+            "imagePath": "/skins/Lifeblood%20Knight/preview.png",
+            "metadata": {
+                "name": "Lifeblood Knight",
+                "source": "https://drive.google.com/drive/folders/1nl3dPyRQbcFJUA_mU2juKHnyVVxqDZLR",
+                "author": "Akhnaten",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Hatchling, HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-22"
+            }
+        },
+        {
+            "subDir": "Light Green Colour Knight",
+            "imagePath": "/skins/Light%20Green%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Light Green Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Light and Blood",
+            "imagePath": "/skins/Light%20and%20Blood/preview.png",
+            "metadata": {
+                "name": "Light and Blood",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/949925911128592404",
+                "author": "GingkoX (季忘溪)",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, Hatchling, HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-11-22"
+            }
+        },
+        {
+            "subDir": "Lightseed Knight (0.6)",
+            "imagePath": "/skins/Lightseed%20Knight%20(0.6)/preview.png",
+            "metadata": {
+                "name": "Lightseed Knight (0.6)",
+                "source": "https://skins.hk-modding.org/share/lifeseedbyxh-saturn",
+                "author": "XH-Saturn",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "DungRecharge, Knight, Quirrel, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Lime Among Us",
+            "imagePath": "/skins/Lime%20Among%20Us/preview.png",
+            "metadata": {
+                "name": "Lime Among Us",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1222360289471627274",
+                "author": "Ismoil",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Little Assassin (1.0)",
+            "imagePath": "/skins/Little%20Assassin%20(1.0)/preview.png",
+            "metadata": {
+                "name": "Little Assassin (1.0)",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/943707743162859530",
+                "author": "燚之虚",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "DreamArrival, Fluke, Grimm, Hatchling, Knight, OrbFull (x3) Sprint, Unn, Void, VS, Weaver, Wraiths",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Little Grimm",
+            "imagePath": "/skins/Little%20Grimm/preview.png",
+            "metadata": {
+                "name": "Little Grimm",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/1009229644408553502",
+                "author": "_yukawa_",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Beam, Some Charms, DoubleJFeather, DreamArrival, DungRecharge, Grimm, Hatchling, HitPt, HUD, Knight, Leak, Liquid, OrbFull, SDCrystalBurst, ShadeOrb, ShadowDashBlobs, Shield, SkullLeft, SkullRight, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wraiths",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Little Horn",
+            "imagePath": "/skins/Little%20Horn/preview.png",
+            "metadata": {
+                "name": "Little Horn",
+                "source": "https://drive.google.com/drive/folders/1pBRWp3W6o9H-PBk4fiCk6zL5Cc3mMpeF",
+                "author": "碳烤番茄鸡肉卷",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, Wings",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Little Hornet (Classic)",
+            "imagePath": "/skins/Little%20Hornet%20(Classic)/preview.png",
+            "metadata": {
+                "name": "Little Hornet (Classic)",
+                "source": "https://drive.google.com/drive/folders/1ewrzU9bNODV-9u5uvlbCDieArLY4i2Z_",
+                "author": "InkScarlet",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, Hatchling, Knight, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Little Hornet (Godmaster)",
+            "imagePath": "/skins/Little%20Hornet%20(Godmaster)/preview.png",
+            "metadata": {
+                "name": "Little Hornet (Godmaster)",
+                "source": "https://drive.google.com/drive/folders/1meIW1w_3oSJWKKHhoYGrGpiDnP1OrsTe",
+                "author": "InkScarlet",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, Hatchling, HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Little Hornet (White)",
+            "imagePath": "/skins/Little%20Hornet%20(White)/preview.png",
+            "metadata": {
+                "name": "Little Hornet (White)",
+                "source": "https://drive.google.com/drive/folders/1WRvgkBipsYmDXU_ivmpowcjz_zCHVQT1",
+                "author": "InkScarlet",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek,  Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Little Petals",
+            "imagePath": "/skins/Little%20Petals/preview.png",
+            "metadata": {
+                "name": "Little Petals",
+                "source": "https://drive.google.com/drive/folders/1eKhh65h9z8APpTCdb1gn4rJ6M6Wyy7Jr",
+                "author": "清洁工BJF",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, Hatchling, HUD, Knight, OrbFull,Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Little Radiance",
+            "imagePath": "/skins/Little%20Radiance/preview.png",
+            "metadata": {
+                "name": "Little Radiance",
+                "source": "https://drive.google.com/drive/folders/1OwGZpgUkx25SWZoDvnowD1Zmv2mRU6Hr",
+                "author": "HBKit",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Beam, Birthplace, Grimmchild Charm, Cloak, Compass, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Fluke, Grimm, Hatchling, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, orbicon, QOrbs (2x), Quirrel, ScrOrbs (2x), SDCrystalBurst, ShadeOrb, Shade, ShadowDashBlobs, Shriek, Sprint (2x), Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths, Some Rooms, Some Bosses, SaveHud, Inventory, HPBar",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "MC Knight",
+            "imagePath": "/skins/MC%20Knight/preview.png",
+            "metadata": {
+                "name": "MC Knight",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/964399575911792640",
+                "author": "龟鳖鼋鼍拉",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, Grimm, HUD, Knight, OrbFull",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Madeline",
+            "imagePath": "/skins/Madeline/preview.png",
+            "metadata": {
+                "name": "Madeline",
+                "source": "https://drive.google.com/file/d/1Nxf9E5nz_9VwDIY2EOgXFpPvtpHfb8sa/edit",
+                "author": "Hotspring",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, DreamArrival, DreamNail, Geo, Hatchling, HUD, Inventory, Knight, OrbFull, Sprint, VoidSpells, VS, Wings, Town",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Madeline Knight",
+            "imagePath": "/skins/Madeline%20Knight/preview.png",
+            "metadata": {
+                "name": "Madeline Knight",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1205718495111680101",
+                "author": "",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Magenta Colour Knight",
+            "imagePath": "/skins/Magenta%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Magenta Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Mango Knight",
+            "imagePath": "/skins/Mango%20Knight/preview.png",
+            "metadata": {
+                "name": "Mango Knight",
+                "source": "https://ko-fi.com/s/571b258d00",
+                "author": "Mango Puppy",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cinematics, Cloak, Compass, DreamArrival, Dreamnail, Hornet, HUD, Knight, Liquid, OrbFull, Quirrel, Shade, Shriek, Spell Effects, Sprint, Unn, Webbed, Wings, Deepnest_32, GG_Nosk, Room_Bretta",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Marmu Knight",
+            "imagePath": "/skins/Marmu%20Knight/preview.png",
+            "metadata": {
+                "name": "Marmu Knight",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/949892875091574847",
+                "author": "路过哒雪",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Grimm, Hatchling, HUD, Knight, OrbFull, VoidSpells, Weaver",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Midnight Blue Colour Knight",
+            "imagePath": "/skins/Midnight%20Blue%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Midnight Blue Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Mimikyu (v2.0)",
+            "imagePath": "/skins/Mimikyu%20(v2.0)/preview.png",
+            "metadata": {
+                "name": "Mimikyu (v2.0)",
+                "source": "https://drive.google.com/drive/folders/1BnKoDd3K-cdXWFKwglyxQ-mgiS73dwMO",
+                "author": "Failed Vessel",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Beam, Birthplace, Most Charms, Cloak, Compass, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Fluke, Geo, Grimm Hatchling, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, QOrbs, QOrbs2, Quirrel, ScrOrbs, ScrOrbs2, SDCrystalBurst, Shade, ShadeOrb, ShadowDashBlobs, Shield, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, White Wave Lone, Wings, Wraiths] [Inventory: Cloak_1, Cloak_2, CRHeart, CSlash, DJump, Slash, Fireball_1, Fireball_2, Focus, GSlash, Lantern, Nail_1, Nail_2, Nail_3, Nail_4, Nail_5, Quake_1, Quake_2] [Swaps: HPBar, Inventory, Abyss_16, Abyss_19, Deepnest_32, Deepnest_Spider_Town, DontDestroyOnLoad, Dream_Final_Boss, Fungus3_30, GG_Collector, GG_Grimm_Nightmare, GG_Nosk, GG_Nosk_V, GG_Radiance, GG_Watcher_Knights, GG_Workshop, Global, Inventory, Menu_Title, Opening_Sequence, Resting Grounds_08, Room_Bretta, Room_Colosseum_01, Room_Colosseum_Bronze, Room_Colosseum_Gold, Room_Colosseum_Silver, Room_Final_Boss_Atrium, Ruins_Bathhouse, Ruins2_11_Boss, Town, Tutorial_01, Waterways_15",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Mint Colour Knight",
+            "imagePath": "/skins/Mint%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Mint Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Mosshopper Rhapsody (v1.0)",
+            "imagePath": "/skins/Mosshopper%20Rhapsody%20(v1.0)/preview.png",
+            "metadata": {
+                "name": "Mosshopper Rhapsody (v1.0)",
+                "source": "https://drive.google.com/file/d/1_5Z8PbyHH5kMDt1tecmnZU1M5o03d3x0/view",
+                "author": "jonnyloaf",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, OrbFull, Sprint, Unn, VoidSpells, VS, White Wave Lone, Wraiths",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Mossy Knight",
+            "imagePath": "/skins/Mossy%20Knight/preview.png",
+            "metadata": {
+                "name": "Mossy Knight",
+                "source": "https://drive.google.com/drive/folders/1mvth0wt89VsBPuurBa-_R2RHquW0IqjA",
+                "author": "Chaktis",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "DreamArrival, Hatchling, HUD, Knight, Quirrel, Sprint, Unn, VoidSpells, VS, Weaver, Wraiths",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Mould",
+            "imagePath": "/skins/Mould/preview.png",
+            "metadata": {
+                "name": "Mould",
+                "source": "https://drive.google.com/drive/folders/1A0Tm6-aw9kenRIWaiI7iTYYlD2sIcTLr",
+                "author": "HBKit",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DoubleJFeather, DreamArrival, Dreamnail, Grimm, Hatchling,Hornet, HUD, Knight, Liquid, OrbFull, Quirrel, SDCrystalBurst, Shade, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths] [Swaps for: Deepnest_32, Dream_Final_Boss, GG_Nosk, Room_Bretta",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Mustard Knight",
+            "imagePath": "/skins/Mustard%20Knight/preview.png",
+            "metadata": {
+                "name": "Mustard Knight",
+                "source": "https://drive.google.com/file/d/1MGjEqSGb59P1aqND_5axWNe-RpuhXjSx/view",
+                "author": "",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Mutant",
+            "imagePath": "/skins/Mutant/preview.png",
+            "metadata": {
+                "name": "Mutant",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1341053672439681056",
+                "author": "我在风中凌乱啊",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "All Charms, DreamArrival, Fluke, Hatchling, HitPt, HUD, Knight, Leak, Liquid, OrbFull, QOrbs, QOrbs2, ScrOrbs, ScrOrbs2, SDCrystalBurst, ShadeOrb, ShadowDashBlobs, Shield, Sprint, Unn, VoidSpells, VS, Weaver, Wraiths",
+                "dateAdded": "2025-02-24"
+            }
+        },
+        {
+            "subDir": "Muted Purple Colour Knight",
+            "imagePath": "/skins/Muted%20Purple%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Muted Purple Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "NB Cloak",
+            "imagePath": "/skins/NB%20Cloak/preview.png",
+            "metadata": {
+                "name": "NB Cloak",
+                "source": "https://drive.google.com/drive/folders/1yo296Fm-Hq-MVkhi8cObUybOUWJgzHKj",
+                "author": "Basil",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "NEKOMATA (3.0)",
+            "imagePath": "/skins/NEKOMATA%20(3.0)/preview.png",
+            "metadata": {
+                "name": "NEKOMATA (3.0)",
+                "source": "https://drive.google.com/drive/folders/1VJFx6WuACO3EV8tz9S6fnILAvL5ggLxb",
+                "author": "Scorpion Rufeul & NiannoA",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight (x2), OrbFull, Quirrel, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths, HPBar",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Navy Colour Knight",
+            "imagePath": "/skins/Navy%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Navy Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Necro Knight",
+            "imagePath": "/skins/Necro%20Knight/preview.png",
+            "metadata": {
+                "name": "Necro Knight",
+                "source": "https://drive.google.com/drive/folders/1XbY-zVKwr7Fdvhub01l92br1UxxwLW3g",
+                "author": "HKRecruiter5*",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Beam, Birthplace, BrummShield, Some Charms, Cloak, Compass, DDeathpt, DeathAsh, DeathNail, DoubleJFeather, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, OrbIcon, QOrbs2, QOrbs, Quirrel, SaveHud, ScrOrbs2, ScrOrbs, SDCrystalBurst, ShadowDashBlobs, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths, GG_Nosk, GG_Radiance, Room_Colosseum_01",
+                "dateAdded": "2025-02-05"
+            }
+        },
+        {
+            "subDir": "Negative Knight",
+            "imagePath": "/skins/Negative%20Knight/preview.png",
+            "metadata": {
+                "name": "Negative Knight",
+                "source": "https://drive.google.com/drive/folders/1o-hReEHIVXBw4OlHIPJa8CvGPlnvlKkP",
+                "author": "TimeOrTimelies",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, All Charms, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shade, ShadeOrb, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Neko-Arc",
+            "imagePath": "/skins/Neko-Arc/preview.png",
+            "metadata": {
+                "name": "Neko-Arc",
+                "source": "https://drive.google.com/file/d/1yXq1hGdEbBaAzKzzj_Rz5w2irAIgcPeN/view",
+                "author": "sarcophagus sneak",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-12-07"
+            }
+        },
+        {
+            "subDir": "Neo",
+            "imagePath": "/skins/Neo/preview.png",
+            "metadata": {
+                "name": "Neo",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/980780850293645332",
+                "author": "半赫者金木",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Shield, SkullLeft, SkullRight, Sprint,  Unn, VS, Webbed, Wraiths",
+                "dateAdded": "2024-12-13"
+            }
+        },
+        {
+            "subDir": "Neon",
+            "imagePath": "/skins/Neon/preview.png",
+            "metadata": {
+                "name": "Neon",
+                "source": "https://drive.google.com/file/d/1HawSEcErSIRadXxzEGSpGS9uWTT_6Sqi/view",
+                "author": "Mickely",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-13"
+            }
+        },
+        {
+            "subDir": "Neon Green Colour Knight",
+            "imagePath": "/skins/Neon%20Green%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Neon Green Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Neon Yellow Colour Knight",
+            "imagePath": "/skins/Neon%20Yellow%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Neon Yellow Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Newborn Spring",
+            "imagePath": "/skins/Newborn%20Spring/preview.png",
+            "metadata": {
+                "name": "Newborn Spring",
+                "source": "https://drive.google.com/file/d/15jvTQFrCxs4joxLko6tfLzPl5VCVCU4q/view",
+                "author": "树滚",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shriek, SkullLeft, SkullRight, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-13"
+            }
+        },
+        {
+            "subDir": "Nox Knight (ver1.01)",
+            "imagePath": "/skins/Nox%20Knight%20(ver1.01)/preview.png",
+            "metadata": {
+                "name": "Nox Knight (ver1.01)",
+                "source": "https://drive.google.com/file/d/1uUDYd_mvWIuP3fToCV4yIaBtFUsSK8ET/view",
+                "author": "小祸星-翼",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-13"
+            }
+        },
+        {
+            "subDir": "OWO Knight",
+            "imagePath": "/skins/OWO%20Knight/preview.png",
+            "metadata": {
+                "name": "OWO Knight",
+                "source": "https://drive.google.com/file/d/1bKfjR7srU8iwzVI4niNld2AfChXDxTmZ/view",
+                "author": "MTmerm",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Hatchling, Hornet, Knight, OrbFull, Quirrel, Shade, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-13"
+            }
+        },
+        {
+            "subDir": "Ocean Blue Colour Knight",
+            "imagePath": "/skins/Ocean%20Blue%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Ocean Blue Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Ochre Colour Knight",
+            "imagePath": "/skins/Ochre%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Ochre Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Onigiri",
+            "imagePath": "/skins/Onigiri/preview.png",
+            "metadata": {
+                "name": "Onigiri",
+                "source": "https://drive.google.com/file/d/1yXq1hGdEbBaAzKzzj_Rz5w2irAIgcPeN/view",
+                "author": "TWP",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-12-13"
+            }
+        },
+        {
+            "subDir": "Open - Brilliant (2.0)",
+            "imagePath": "/skins/Open%20-%20Brilliant%20(2.0)/preview.png",
+            "metadata": {
+                "name": "Open - Brilliant (2.0)",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/943708530760888352",
+                "author": "芈蓺藜雨",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Fluke, Geo, Grimm, Hatchling, HUD, KKnight, OrbFull, Shield, VoidSpells, VS, Weaver, Wraiths",
+                "dateAdded": "2024-12-13"
+            }
+        },
+        {
+            "subDir": "Open - Delicious Appetite",
+            "imagePath": "/skins/Open%20-%20Delicious%20Appetite/preview.png",
+            "metadata": {
+                "name": "Open - Delicious Appetite",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/943705759462596658",
+                "author": "芈蓺藜雨",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Dreamnail, Fluke, Geo, Hatchling, HUD, Knight, OrbFull, Shield, Sprint,  Unn, VoidSpells, VS, Weaver, Wraiths",
+                "dateAdded": "2024-12-13"
+            }
+        },
+        {
+            "subDir": "Open - Green",
+            "imagePath": "/skins/Open%20-%20Green/preview.png",
+            "metadata": {
+                "name": "Open - Green",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/943709725021831179",
+                "author": "芈蓺藜雨",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, HUD, Knight, OrbFull, Quirrell, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-13"
+            }
+        },
+        {
+            "subDir": "Open - Paper Blossoms (2.0)",
+            "imagePath": "/skins/Open%20-%20Paper%20Blossoms%20(2.0)/preview.png",
+            "metadata": {
+                "name": "Open - Paper Blossoms (2.0)",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/943712600959614997",
+                "author": "芈蓺藜雨",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, All Charms, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, SkullLeft, SkullRight, Sprint, Unn, VoidSpells, VS, Weaver, Webbed,  Wings, Wraiths",
+                "dateAdded": "2024-12-13"
+            }
+        },
+        {
+            "subDir": "Orange Among Us",
+            "imagePath": "/skins/Orange%20Among%20Us/preview.png",
+            "metadata": {
+                "name": "Orange Among Us",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1222360289471627274",
+                "author": "Ismoil",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Orange Colour Knight",
+            "imagePath": "/skins/Orange%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Orange Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "POP Knight",
+            "imagePath": "/skins/POP%20Knight/preview.png",
+            "metadata": {
+                "name": "POP Knight",
+                "source": "https://drive.google.com/drive/folders/11F3M_jqTYnI5wcBZV9GZTiOHW_FEEUCs",
+                "author": "路过哒雪",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Cloak, Fluke, Geo, Hatchling, HUD, Knight, OrbFull, Shriek, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Painter's Pupil",
+            "imagePath": "/skins/Painter's%20Pupil/preview.png",
+            "metadata": {
+                "name": "Painter's Pupil",
+                "source": "https://drive.google.com/file/d/17S3B_C_Hplhb61QGPHriWmLk8Hd-VaM0/view",
+                "author": "Mikelaxo",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, Compass, DreamArrival, Dreamnail, Hornet, Inventory, Knight, Quirrel, Shriek, Sprint, Unn, Webbed, Wings",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Painting Knight",
+            "imagePath": "/skins/Painting%20Knight/preview.png",
+            "metadata": {
+                "name": "Painting Knight",
+                "source": "https://drive.google.com/drive/folders/1aJ8KDjtwoEPWR03jIIAtLFEzWVQggWoK",
+                "author": "Acopytopy",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Compass, Fluke, Grimm, Hatchling, Knight, OrbFull, Quirrel, ShadeOrb, Shade, ShadowDashBlobs, Shield, Sprint, Unn, VoidSpells, Weaver",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Pale King",
+            "imagePath": "/skins/Pale%20King/preview.png",
+            "metadata": {
+                "name": "Pale King",
+                "source": "https://drive.google.com/file/d/14O3IzFw2V0UaS7UL8W_1Q3FCrKvyqvjL/view",
+                "author": "Methyl Palladium (?)",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Pale Yellow Colour Knight",
+            "imagePath": "/skins/Pale%20Yellow%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Pale Yellow Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Peach Knight",
+            "imagePath": "/skins/Peach%20Knight/preview.png",
+            "metadata": {
+                "name": "Peach Knight",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/980780850293645332",
+                "author": "tabby",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Dreamnail, Fluke, Grimm, Hatchling, HUD, Knight, OrbFull, Shield, Sprint, Unn, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-13"
+            }
+        },
+        {
+            "subDir": "Pink Among Us",
+            "imagePath": "/skins/Pink%20Among%20Us/preview.png",
+            "metadata": {
+                "name": "Pink Among Us",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1222360289471627274",
+                "author": "Ismoil",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Pink Bow (1.0)",
+            "imagePath": "/skins/Pink%20Bow%20(1.0)/preview.png",
+            "metadata": {
+                "name": "Pink Bow (1.0)",
+                "source": "https://drive.google.com/drive/folders/1BIIdjEtLGdok2QQ93MGxH15EoiwVX6TD",
+                "author": "GingkoX",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Hatchling, HUD, Knight,  OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-13"
+            }
+        },
+        {
+            "subDir": "Pink Bow (2.0)",
+            "imagePath": "/skins/Pink%20Bow%20(2.0)/preview.png",
+            "metadata": {
+                "name": "Pink Bow (2.0)",
+                "source": "https://drive.google.com/drive/folders/1PcZ9eszh7u3n3qGZCDgRlMZ9HwQk9xDY",
+                "author": "GingkoX",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Hatchling, Hornet, HUD, Knight, OrbFull, Shriek, Sprint, Unn, VoidSpells,VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-13"
+            }
+        },
+        {
+            "subDir": "Pink Red Colour Knight",
+            "imagePath": "/skins/Pink%20Red%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Pink Red Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Pixel Knight (v2)",
+            "imagePath": "/skins/Pixel%20Knight%20(v2)/preview.png",
+            "metadata": {
+                "name": "Pixel Knight (v2)",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/741892763410235432",
+                "author": "wowee",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Fluke, Grimm, Hatchling, HUD, Knight, OrbFull, Shield, Sprint, Unn, VoidSpells, VS, Weaver, Wraiths",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Power Core Knight (1.0)",
+            "imagePath": "/skins/Power%20Core%20Knight%20(1.0)/preview.png",
+            "metadata": {
+                "name": "Power Core Knight (1.0)",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/963792665365852250",
+                "author": "冷酷无情玉米片",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Hatchling, HUD, Knight, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Praying Rabbit - Jiaoyue",
+            "imagePath": "/skins/Praying%20Rabbit%20-%20Jiaoyue/preview.png",
+            "metadata": {
+                "name": "Praying Rabbit - Jiaoyue",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/944477776696705074",
+                "author": "泠湜lince",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Prince of Axolomeh",
+            "imagePath": "/skins/Prince%20of%20Axolomeh/preview.png",
+            "metadata": {
+                "name": "Prince of Axelomeh",
+                "source": "https://drive.google.com/file/d/1A3ZknA423z08ZF4SvfklqqGmvUvUjsI9/view",
+                "author": "megmav",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Hornet, HUD, Knight, Quirrel, Shriek, Sprint, Unn, Webbed, Wings",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Pupil Knight+",
+            "imagePath": "/skins/Pupil%20Knight%2B/preview.png",
+            "metadata": {
+                "name": "Pupil Knight+",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/1055760205406797824",
+                "author": "Merch_Andise",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Cloak, DreamArrival, Dreamnail, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Pure Vessel",
+            "imagePath": "/skins/Pure%20Vessel/preview.png",
+            "metadata": {
+                "name": "Pure Vessel",
+                "source": "https://drive.google.com/file/d/1XkHRReQJxvVbaD4aT3_8S5prTS1l3z2t/view",
+                "author": "emray",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Purple Among Us",
+            "imagePath": "/skins/Purple%20Among%20Us/preview.png",
+            "metadata": {
+                "name": "Purple Among Us",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1222360289471627274",
+                "author": "Ismoil",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Purple Colour Knight",
+            "imagePath": "/skins/Purple%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Purple Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Purple Knight",
+            "imagePath": "/skins/Purple%20Knight/preview.png",
+            "metadata": {
+                "name": "Purple Knight",
+                "source": "https://drive.google.com/drive/folders/1VlXmvI6KT2vzsGItY2w3rHjeCFx8DN0n",
+                "author": "VoidIn",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Radiance Knight",
+            "imagePath": "/skins/Radiance%20Knight/preview.png",
+            "metadata": {
+                "name": "Radiance Knight",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/943612857197658143",
+                "author": "ixiska",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Fluke, HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Rainbow Cloak",
+            "imagePath": "/skins/Rainbow%20Cloak/preview.png",
+            "metadata": {
+                "name": "Rainbow Cloak",
+                "source": "https://drive.google.com/drive/folders/1yo296Fm-Hq-MVkhi8cObUybOUWJgzHKj",
+                "author": "Basil",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Rainbow Knight",
+            "imagePath": "/skins/Rainbow%20Knight/preview.png",
+            "metadata": {
+                "name": "Rainbow Knight",
+                "source": "https://drive.google.com/file/d/1SCaNmXqxSHxJpdU1tgV_pT8T-3Kqmst4/view",
+                "author": "Shiga",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, OrbFull, Sprint, Wraiths",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Rainy Knight (v1)",
+            "imagePath": "/skins/Rainy%20Knight%20(v1)/preview.png",
+            "metadata": {
+                "name": "Rainy Knight (v1)",
+                "source": "https://drive.google.com/file/d/1GQZAyqa8IxqLpkww7hwOpFvt7LiOM40J/view",
+                "author": "megmav",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Reconciliation Show",
+            "imagePath": "/skins/Reconciliation%20Show/preview.png",
+            "metadata": {
+                "name": "Reconciliation Show",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/944475945841074196",
+                "author": "是菜鸡一第一制的",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, Hatchling, HUD, Knight, OrbFull, Sprint, VoidSpells, Weaver",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Red Colour Knight",
+            "imagePath": "/skins/Red%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Red Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Reddish Brown Colour Knight",
+            "imagePath": "/skins/Reddish%20Brown%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Reddish Brown Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Reddish Grey Colour Knight",
+            "imagePath": "/skins/Reddish%20Grey%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Reddish Grey Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Redwing",
+            "imagePath": "/skins/Redwing/preview.png",
+            "metadata": {
+                "name": "Redwing",
+                "source": "https://drive.google.com/file/d/1_absx41izGgluYU0owGWH1U0CpevPvf6/view",
+                "author": "",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Regal Knight",
+            "imagePath": "/skins/Regal%20Knight/preview.png",
+            "metadata": {
+                "name": "Regal Knight",
+                "source": "https://drive.google.com/file/d/1fwYubEWaqQmtgvSmoiLtMgSPjIVJsBHf/view",
+                "author": "Knightmere",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, OrbFull, Sprint,VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Rei the FØx",
+            "imagePath": "/skins/Rei%20the%20F%C3%98x/preview.png",
+            "metadata": {
+                "name": "Rei the FØx",
+                "source": "https://drive.google.com/drive/folders/1qZ4uSsPhFDdPsro4HN27xesxe-7v6A_9",
+                "author": "HBKit",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, Compass, DoubleJFeather, DreamArrival, Dreamnail, Geo, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, Quirrel,SDCrystalBurst, ShadeOrb, Shade, ShadowDashBlobs, Shriek, Sprint, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Relyea Knight",
+            "imagePath": "/skins/Relyea%20Knight/preview.png",
+            "metadata": {
+                "name": "Relyea Knight",
+                "source": "https://drive.google.com/file/d/1yXq1hGdEbBaAzKzzj_Rz5w2irAIgcPeN/view",
+                "author": "Maddy",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Rick Knight",
+            "imagePath": "/skins/Rick%20Knight/preview.png",
+            "metadata": {
+                "name": "Rick Knight",
+                "source": "https://drive.google.com/drive/folders/1XN91xOXCI65y6gsrvXWzxBe62CuAs7Du",
+                "author": "Dish",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "DreamArrival, Fluke, Hatchling, HUD, Knight, OrbFull, Sprint, Unn, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Salmon Colour Knight",
+            "imagePath": "/skins/Salmon%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Salmon Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Sans Knight",
+            "imagePath": "/skins/Sans%20Knight/preview.png",
+            "metadata": {
+                "name": "Sans Knight",
+                "source": "https://drive.google.com/drive/folders/1OXzg_ZK5r6mGm4djwLr4-R2cW8VMs1qw",
+                "author": "MT",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Grimm, Hatchling, HUD, Knight, OrbFull, Spring, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-18"
+            }
+        },
+        {
+            "subDir": "Sapphire",
+            "imagePath": "/skins/Sapphire/preview.png",
+            "metadata": {
+                "name": "Sapphire",
+                "source": "https://drive.google.com/file/d/1C0JfXBy9PxaqXIZIOCJlRUANFn1XS8AR/view",
+                "author": "LOATR",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Geo, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, SkullLeft, SkullRight, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-18"
+            }
+        },
+        {
+            "subDir": "Scarlet Crisis (v1.0)",
+            "imagePath": "/skins/Scarlet%20Crisis%20(v1.0)/preview.png",
+            "metadata": {
+                "name": "Scarlet Crisis (v1.0)",
+                "source": "https://drive.google.com/drive/folders/1Wb7H1QQMrz_xt3C0hU619oiE0_2aTI4S",
+                "author": "AmberWhale",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Hatchling, HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-18"
+            }
+        },
+        {
+            "subDir": "Schy Tribute",
+            "imagePath": "/skins/Schy%20Tribute/preview.png",
+            "metadata": {
+                "name": "Schy Tribute",
+                "source": "https://drive.google.com/drive/folders/162g0dKxrG_gZQIyUuayq5z2O2dGeCFdc",
+                "author": "Griftz",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Charm_39, Cloak, DreamArrival, Dreamnail, Geo, Grimm, Hatchling, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, QOrbs, QOrbs2, Quirrel, ScrOrbs, ScrOrbs2, SDCrystalBurst, ShadowDashBlobs, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-18"
+            }
+        },
+        {
+            "subDir": "Schy Tribute (Blue Void Spells)",
+            "imagePath": "/skins/Schy%20Tribute%20(Blue%20Void%20Spells)/preview.png",
+            "metadata": {
+                "name": "Schy Tribute (Blue Void Spells)",
+                "source": "https://drive.google.com/drive/folders/1AwAxFYcnlNgASR32oJ796mQIlA8a3FZg",
+                "author": "Dragon Nyx",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Charm_39, Cloak, DreamArrival, Dreamnail, Geo, Grimm, Hatchling, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, QOrbs, QOrbs2, Quirrel, ScrOrbs, ScrOrbs2, SDCrystalBurst, ShadowDashBlobs, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-18"
+            }
+        },
+        {
+            "subDir": "Shadow",
+            "imagePath": "/skins/Shadow/preview.png",
+            "metadata": {
+                "name": "Shadow",
+                "source": "https://drive.google.com/file/d/1cFMoDM4TeTQpWwgf1KOCaIg2lDt6zKVV/view",
+                "author": "Mickely",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-18"
+            }
+        },
+        {
+            "subDir": "Shamisen",
+            "imagePath": "/skins/Shamisen/preview.png",
+            "metadata": {
+                "name": "Shamisen",
+                "source": "https://drive.google.com/drive/folders/17-0ngsOhPNBZlaa-rW5U5fWH9gzIopQJ",
+                "author": "The Hollow Shamisen",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, HUD, Knight, OrbFull, Unn, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-18"
+            }
+        },
+        {
+            "subDir": "Shirtel (v1.0)",
+            "imagePath": "/skins/Shirtel%20(v1.0)/preview.png",
+            "metadata": {
+                "name": "Shirtel (v1.0)",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/1017857041005551686",
+                "author": "辰鸽鸽鸽咕",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Charm_6, Knight, VoidSpells",
+                "dateAdded": "2024-12-18"
+            }
+        },
+        {
+            "subDir": "Silksong",
+            "imagePath": "/skins/Silksong/preview.png",
+            "metadata": {
+                "name": "Silksong",
+                "source": "Hollow Knight: Silksong (2025)",
+                "author": "Team Cherry",
+                "game": "silksong",
+                "type": "character",
+                "desc": "Coming 2025...",
+                "dateAdded": "2025-05-23"
+            }
+        },
+        {
+            "subDir": "Silver Colour Knight",
+            "imagePath": "/skins/Silver%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Silver Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Simple Trans Knight",
+            "imagePath": "/skins/Simple%20Trans%20Knight/preview.png",
+            "metadata": {
+                "name": "Simple Trans Knight",
+                "source": "https://drive.google.com/file/d/1YfbN0x6P8IrLxWrkeUeyRDg6HjpD-uro/view",
+                "author": "talentless neckbeard gamer",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Hornet, HUD, Knight, Shriek, Sprint, Webbed, Wings",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Skadi (v3.0)",
+            "imagePath": "/skins/Skadi%20(v3.0)/preview.png",
+            "metadata": {
+                "name": "Skadi (v3.0)",
+                "source": "https://drive.google.com/drive/folders/1w63cyxzBC7So2w51eGnS6ZuXU8nJPx24",
+                "author": "Qqi_owo",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Grimm, HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-18"
+            }
+        },
+        {
+            "subDir": "Sketch Knight",
+            "imagePath": "/skins/Sketch%20Knight/preview.png",
+            "metadata": {
+                "name": "Sketch Knight",
+                "source": "https://drive.google.com/file/d/1hTjXlbK13c8J2Fi06qaJ4lDULD7DmCWF/view",
+                "author": "Minish",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Beam, Birthplace, All Charms, Cloak, Compass, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Fluke, Geo, Grimm, Hatchling, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, QOrbs, QOrbs2, Quirrel, ScrOrbs, ScrOrbs2,SDCrystalBurst, Shade, ShadeOrb, ShadowDashBlobs, Shield, Shriek, Sprint, Unn, VoidSpells,  VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-18"
+            }
+        },
+        {
+            "subDir": "Skurry Knight",
+            "imagePath": "/skins/Skurry%20Knight/preview.png",
+            "metadata": {
+                "name": "Skurry Knight",
+                "source": "https://drive.google.com/drive/folders/17ctNhlLS5awoRmable01XEaGHPVJxTAe",
+                "author": "Elright2",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "DreamArrival, Dreamnail, Hatchling, HUD, Knight, OrbFull, Sprint, Unn, VoidSpells",
+                "dateAdded": "2024-12-18"
+            }
+        },
+        {
+            "subDir": "Sky Blue Colour Knight",
+            "imagePath": "/skins/Sky%20Blue%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Sky Blue Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Sliver of Straw",
+            "imagePath": "/skins/Sliver%20of%20Straw/preview.png",
+            "metadata": {
+                "name": "Sliver of Straw",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1328805957811310603",
+                "author": "该隐的世界碎片集",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DoubleJFeather, DreamArrival, Dreamnail, Geo, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shade, Shriek, Spell Effects, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2025-01-16"
+            }
+        },
+        {
+            "subDir": "Slugpup",
+            "imagePath": "/skins/Slugpup/preview.png",
+            "metadata": {
+                "name": "Slugpup",
+                "source": "https://drive.google.com/drive/folders/1VNZlM43WCakchjsxz-cp-mEVuZOV67xq",
+                "author": "fantastenby",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Cloak, Compass, DreamArrival, Dreamnail, Hornet, Knight (5x), OrbFull, Quirrel, Shade, Shriek, Sprint (5x), Unn, Webbed, Wings",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Smolaire",
+            "imagePath": "/skins/Smolaire/preview.png",
+            "metadata": {
+                "name": "Smolaire",
+                "source": "https://drive.google.com/drive/folders/1ToV7kmITbSMZKJR-Ae9nDvNQhAXSZgM2",
+                "author": "Chaktis",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DoubleJFeather, DreamArrival, DreamNail, Geo, Grimm, Hatchling, HitPt, Hornet, HUD, Knight, Leak, OrbFull, Quirrel, SDCrystalBurst, ShadowDashBlobs, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver (x2), Webbed, Wings,  Wraiths] [Swaps for: GG_Hollow_Knight, GG_Workshop, Room_Final_Boss_Core, Ruins1_27",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Soft Pink Colour Knight",
+            "imagePath": "/skins/Soft%20Pink%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Soft Pink Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Sporadic Skin",
+            "imagePath": "/skins/Sporadic%20Skin/preview.png",
+            "metadata": {
+                "name": "Sporadic Skin",
+                "source": "https://drive.google.com/drive/folders/1Bcx5gKyn-X-jVHYjIhYXvQw8Oxg2oqhG",
+                "author": "XH-土星Saturn",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Some Charms, Cloak, DoubleJFeather, DreamArrival, Geo, HitPt, HUD, Knight, Liquid, OrbFull, Quirrel, SDCrystalBurst, ShadowSDashBlobs, Sprint, Unn, VoidSpells, VS, Webbed, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Star Melody [星音旋律] (v2.2)",
+            "imagePath": "/skins/Star%20Melody%20%5B%E6%98%9F%E9%9F%B3%E6%97%8B%E5%BE%8B%5D%20(v2.2)/preview.png",
+            "metadata": {
+                "name": "Star Melody [星音旋律] (v2.2)",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1366278207070011412",
+                "author": "hoshiin_",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DoubleJFeather, DreamArrival, Dreamnail, Geo, Grimm, Hornet, HUD, Knight, Liquid, OrbFull, QOrbs2, QOrbs, Quirrel, ScrOrbs2, ScrOrbs, ShadowDashBlobs, Shriek, Sprint, Unn, VoidSpells, vs, Webbed, Wings, Wraiths",
+                "dateAdded": "2025-05-24"
+            }
+        },
+        {
+            "subDir": "StarBunny",
+            "imagePath": "/skins/StarBunny/preview.png",
+            "metadata": {
+                "name": "StarBunny",
+                "source": "https://drive.google.com/drive/folders/1435pXkFxNHWr4L8TFfBmZMfeKolje-17",
+                "author": "甜茶奶芙",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Fluke, Geo, Grimm (x2), Hatchling, HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Starry Glacier",
+            "imagePath": "/skins/Starry%20Glacier/preview.png",
+            "metadata": {
+                "name": "Starry Glacier",
+                "source": "https://drive.google.com/drive/folders/1wPdj_jvF30ty8rpsIXm-moqFGK7_NqEF",
+                "author": "Alexandrite",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Geo, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Starry Knight",
+            "imagePath": "/skins/Starry%20Knight/preview.png",
+            "metadata": {
+                "name": "Starry Knight",
+                "source": "https://drive.google.com/drive/folders/1hRjQiC4ij2aIs4bqyQhtf0SBqw90oYuY",
+                "author": "Bubbleko",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, Hatchling, HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Stinger",
+            "imagePath": "/skins/Stinger/preview.png",
+            "metadata": {
+                "name": "Stinger",
+                "source": "https://x.com/indexth08/status/1674423969095778306",
+                "author": "Index(th)",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, DreamNail, Hatchling, Hornet, Knight, Quirrel, Shade, Shriek, Sprint, Unn, Weaver, Webbed, Wings",
+                "dateAdded": "2025-02-24"
+            }
+        },
+        {
+            "subDir": "Student Knight",
+            "imagePath": "/skins/Student%20Knight/preview.png",
+            "metadata": {
+                "name": "Student Knight",
+                "source": "https://drive.google.com/drive/folders/1UIPCdQV4GrPi21glbxbsTxVw2Pw2g_L0",
+                "author": "KAdala",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Some Charms, Fluke, Grimm, Hatchling, Knight, OrbFull, Sprint",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Summer",
+            "imagePath": "/skins/Summer/preview.png",
+            "metadata": {
+                "name": "Summer",
+                "source": "https://drive.google.com/file/d/1HdxCnP0xquYKV54l6sx0ebPYl9uIUcbX/view",
+                "author": "树滚",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "DreamArrival, Geo, Hatchling, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, Sprint, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Sunshine (0.2)",
+            "imagePath": "/skins/Sunshine%20(0.2)/preview.png",
+            "metadata": {
+                "name": "Sunshine (0.2)",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/964399664768118804",
+                "author": "KTSZXK",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, OrbFull, VoidSpells",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Sus",
+            "imagePath": "/skins/Sus/preview.png",
+            "metadata": {
+                "name": "Sus",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1319126107689189386",
+                "author": "HuntHussle",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Tan Colour Knight",
+            "imagePath": "/skins/Tan%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Tan Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Tanjirou",
+            "imagePath": "/skins/Tanjirou/preview.png",
+            "metadata": {
+                "name": "Tanjirou",
+                "source": "https://drive.google.com/drive/folders/1ejpGk9FX1C0Kkw4kIWzbYvyigPypmPHU",
+                "author": "写与",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD (x2), Knight, OrbFull, Sprint, VoidSpells",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Teal Colour Knight",
+            "imagePath": "/skins/Teal%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Teal Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Terrarian HUD",
+            "imagePath": "/skins/Terrarian%20HUD/preview.png",
+            "metadata": {
+                "name": "Terrarian HUD",
+                "source": "https://drive.google.com/drive/folders/1Dl0qCCk1OC0U3cudF8yeG95kR1XV7RDB",
+                "author": "darkcatyyt",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Beam, BrummShield, All Charms, DDeathpt, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Fluke, Geo, Grimm, Hatchling, HitPt, Hornet, HUD, Inventory, Knight, Liquid, OrbFull, orbicon, QOrbs (2x), ScrOrbs (2x), SDCrystalBurst, ShadeOrb, Shade, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths, Abyss_05, Abyss_06_Core, Cliffs_05, Cliffs_06, Crossroads_02, Crossroads_03, Crossroads_08, Crossroads_14, Crossroads_15, Crossroads_19, Crossroads_27, Crossroads_39, Crossroads_ShamanTemple, Deepnest_45_v02, Deepnest_East_03, Deepnest_East_04, Deepnest_East_15, Dream_Final_Boss, Dream_Guardian_Hegemol, Dream_Guardian_Lurien, Dream_Guardian_Monomon, Fungus1_04, Fungus1_10, Fungus2_15, GG_Atrium, GG_Atrium_Roof, GG_Blue_Room, GG_Broken_Vessel, GG_Engine_Prime, GG_Engine_Root, GG_Ghost_Markoth, GG_Ghost_Markoth_V, GG_Grimm_Nightmare, GG_Hollow_Knight, GG_Hornet_1, GG_Hornet_2, GG_Lost_Kin, GG_Mantis_Lords, GG_Mantis_Lords_V, GG_Radiance, GG_Soul_Master, GG_Soul_Tyrant, GG_Workshop, GG_Wyrm, Global, Grimm_Nightmare, Menu_Title, Mines_10, Mines_34, Mines_35, Quit_To_Menu, RestingGrounds_04, RestingGrounds_10, Room_Final_Boss_Atrium, Room_Final_Boss_Core, Room_temple, Room_Wyrm, Ruins1_24, Ruins1_27, Tutorial_01, White_Palace_17, White_Palace_18, White_Palace_19, White_Palace_20, Achievements, Journal, SaveHud",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "The Hollow Knight",
+            "imagePath": "/skins/The%20Hollow%20Knight/preview.png",
+            "metadata": {
+                "name": "The Hollow Knight",
+                "source": "https://drive.google.com/file/d/1rCU0OF7OWvqFjmi61HiZRnmTw_kVWuml/view",
+                "author": "emray",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "The Pale King",
+            "imagePath": "/skins/The%20Pale%20King/preview.png",
+            "metadata": {
+                "name": "The Pale King",
+                "source": "https://skins.hk-modding.org/share/aEzKfEpx",
+                "author": "lime",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Some Charms, Cloak, DreamArrival, Dreamnail, Hatchling, Hornet, HUD, Knight (x2), OrbFull, Quirrel, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "The Sealed Vessel",
+            "imagePath": "/skins/The%20Sealed%20Vessel/preview.png",
+            "metadata": {
+                "name": "The Sealed Vessel",
+                "source": "https://drive.google.com/drive/folders/10DKLm6x8bvktrCbdbLOsw7SlVWzNDs0F",
+                "author": "",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, OrbFull, Sprint, Webbed",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Thunder Knight",
+            "imagePath": "/skins/Thunder%20Knight/preview.png",
+            "metadata": {
+                "name": "Thunder Knight",
+                "source": "https://drive.google.com/file/d/19N67lbN_Di0VtDnfA6cINd6xq7ahblkF/view",
+                "author": "HooKnows",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "DreamArrival, HUD, Knight, OrbFull, Sprint, Unn, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Thunder and Lightning Knight",
+            "imagePath": "/skins/Thunder%20and%20Lightning%20Knight/preview.png",
+            "metadata": {
+                "name": "Thunder and Lightning Knight",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/971239739065774111",
+                "author": "Dragxon",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "DreamArrival, Geo, HUD, Knight, OrbFull, Sprint, Unn, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Thunder and Lightning Knight (Less Intense)",
+            "imagePath": "/skins/Thunder%20and%20Lightning%20Knight%20(Less%20Intense)/preview.png",
+            "metadata": {
+                "name": "Thunder and Lightning Knight (Less Intense)",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/971240140649398292",
+                "author": "Dragxon",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "DreamArrival, Geo, HUD, Knight, OrbFull, Sprint, Unn, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Tianlu",
+            "imagePath": "/skins/Tianlu/preview.png",
+            "metadata": {
+                "name": "Tianlu",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/943712246264115301",
+                "author": "小猫Giovanni",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, OrbFull, Sprint, VoidSpells, Weaver, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Tiny Godseeker",
+            "imagePath": "/skins/Tiny%20Godseeker/preview.png",
+            "metadata": {
+                "name": "Tiny Godseeker",
+                "source": "https://drive.google.com/drive/u/0/folders/1poWtAk-DVuPVzZZNdFzapXZymE2qAPEl",
+                "author": "Jtad",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint, Unn, VoidSpells",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Tiny Rayman",
+            "imagePath": "/skins/Tiny%20Rayman/preview.png",
+            "metadata": {
+                "name": "Tiny Rayman",
+                "source": "https://raymanpc.com/forum/viewtopic.php?t=74880",
+                "author": "KriVo",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, DreamArrival, Hatchling, HitPt, Hud, Icon, Knight, Leak, OrbFull, Quirrel, Shade, Sprint, Unn, VoidSpells, VS, Weaver, Webbed",
+                "dateAdded": "2025-01-05"
+            }
+        },
+        {
+            "subDir": "Trans Knight",
+            "imagePath": "/skins/Trans%20Knight/preview.png",
+            "metadata": {
+                "name": "Trans Knight",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/802154765937016843",
+                "author": "Akivaq",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Trans Marble Knight",
+            "imagePath": "/skins/Trans%20Marble%20Knight/preview.png",
+            "metadata": {
+                "name": "Trans Marble Knight",
+                "source": "https://drive.google.com/drive/folders/114vECv1lA5JfZTGSmPwgc8sWzBRlL_IU",
+                "author": "LichOne#5951",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Transparency Knight",
+            "imagePath": "/skins/Transparency%20Knight/preview.png",
+            "metadata": {
+                "name": "Transparency Knight",
+                "source": "https://drive.google.com/file/d/1IdWY69BPNfiS-B-YI7W8lb2Etbbq80yh",
+                "author": "Minish",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Beam, Birthplace, All Charms, Cloak, Compass, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Fluke, Geo, Grimm,  Hatchling, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, QOrbs, QOrbs2, Quirrel, ScrOrbs, ScrOrbs2, SDCrystalBurst, Shade, ShadeOrb, ShadowDashBlobs, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths, Inventory",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Transparent",
+            "imagePath": "/skins/Transparent/preview.png",
+            "metadata": {
+                "name": "Transparent",
+                "source": "https://drive.google.com/file/d/1IdWY69BPNfiS-B-YI7W8lb2Etbbq80yh",
+                "author": "LichOne#5951",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Uninfected Vessel",
+            "imagePath": "/skins/Uninfected%20Vessel/preview.png",
+            "metadata": {
+                "name": "Uninfected Vessel",
+                "source": "https://drive.google.com/drive/folders/1pHpG-EfWbzrGz63zR_RPWhvOyx2NroEt",
+                "author": "羽灵翼",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Hatchling, Hornet, Knight, Quirrel, Shriek, SkullLeft, SkullRight, Sprint, Unn, Webbed, Wings",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "VOD Knight",
+            "imagePath": "/skins/VOD%20Knight/preview.png",
+            "metadata": {
+                "name": "VOD Knight",
+                "source": "https://discord.com/channels/283467363729408000/462200562620825600/985566148961640558",
+                "author": "Roy",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, Orbfull, Sprint",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Valentino (1.0)",
+            "imagePath": "/skins/Valentino%20(1.0)/preview.png",
+            "metadata": {
+                "name": "Valentino (1.0)",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1263642768454979685",
+                "author": "Elliott255",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Cloak, DeathPt, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Hatchling, HitPt, HUD, Knight, Leak, OrbFull, QOrbs2, QOrbs, ScrOrbs2, ScrOrbs, SDCrystalBurst, ShadeOrb, ShadowDashBlobs, Shriek, Sprint, Unn, VoidSpells, Weaver, Wings, Wraiths",
+                "dateAdded": "2025-01-05"
+            }
+        },
+        {
+            "subDir": "Valentino (2.0)",
+            "imagePath": "/skins/Valentino%20(2.0)/preview.png",
+            "metadata": {
+                "name": "Valentino (2.0)",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1324760789000781844",
+                "author": "Elliott255",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Cloak, DeathPt, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Hatchling, HitPt, HUD, Knight, Leak, OrbFull, QOrbs2, QOrbs, Quirrel, ScrOrbs2, ScrOrbs, SDCrystalBurst, ShadeOrb, ShadowDashBlobs, Shriek, Sprint, Unn, VoidSpells, Weaver, Wings, Wraiths, Room_Bretta",
+                "dateAdded": "2025-01-05"
+            }
+        },
+        {
+            "subDir": "Van Gogh (2.0)",
+            "imagePath": "/skins/Van%20Gogh%20(2.0)/preview.png",
+            "metadata": {
+                "name": "Van Gogh (2.0)",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/944473156456960010",
+                "author": "剖剖酱",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Fluke (x2), Hatchling, Knight, OrbFull, VoidSpells, VS, Weaver, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Velvet Bird",
+            "imagePath": "/skins/Velvet%20Bird/preview.png",
+            "metadata": {
+                "name": "Velvet Bird",
+                "source": "https://drive.google.com/drive/folders/1kMTC0tMGHaO4IVQjXRQjdanFgyqSgh0v",
+                "author": "海鹄",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Liquid, OrbFull",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Void Knight",
+            "imagePath": "/skins/Void%20Knight/preview.png",
+            "metadata": {
+                "name": "Void Knight",
+                "source": "https://drive.google.com/drive/folders/14uBH4GtDvaSW-iNRcPko3Lh4TCgzlc5s",
+                "author": "LichOne#5951",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Waluigi Knight",
+            "imagePath": "/skins/Waluigi%20Knight/preview.png",
+            "metadata": {
+                "name": "Waluigi Knight",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/958882321774309416",
+                "author": "Cosmo",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Charm_40_1, Charm_40_2, Charm_40_3, Charm_40_4, Charm_40_5, Geo, Hatchling, HUD, Knight, OrbFull, Sprint, Unn, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Weary Knight",
+            "imagePath": "/skins/Weary%20Knight/preview.png",
+            "metadata": {
+                "name": "Weary Knight",
+                "source": "https://drive.google.com/file/d/1_x5Gy74H_7HH1F8Fy_RhmxKO2Gs5e5Dk/view",
+                "author": "Mickely",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Weird Gentleman",
+            "imagePath": "/skins/Weird%20Gentleman/preview.png",
+            "metadata": {
+                "name": "Weird Gentleman",
+                "source": "https://drive.google.com/drive/folders/1wYmdjFbsGKhSq78OUYR8SuaojoYnATRR",
+                "author": "海鹄",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Beam, Charm Effects Cln, Some Charms, DoubleJFeather, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, HitPt, Hollow Shade, Hornet, HUD Extras Cln, HUD, Knight, Lamp Bug Cln, Leak,Liquid, OrbFull, Quirrel, SDCrystalBurst, ShadowDashBlobs, Shield, Shriek, SkullLeft, SkullRight, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "White Bird",
+            "imagePath": "/skins/White%20Bird/preview.png",
+            "metadata": {
+                "name": "White Bird",
+                "source": "https://drive.google.com/drive/folders/14tkxCsq7xnZvnr21SXuNnqdiS4MEcACn",
+                "author": "黎疏不想吃香菜",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Grimm, Hatchling, Hornet, HUD, Knight, Quirrel, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "White Cloak",
+            "imagePath": "/skins/White%20Cloak/preview.png",
+            "metadata": {
+                "name": "White Cloak",
+                "source": "https://drive.google.com/file/d/15ulr_HdcJA70QlIO1jdUjP7rvuljWP26/view",
+                "author": "753",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "White Colour Knight",
+            "imagePath": "/skins/White%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "White Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "White Palace Knight",
+            "imagePath": "/skins/White%20Palace%20Knight/preview.png",
+            "metadata": {
+                "name": "White Palace Knight",
+                "source": "https://drive.google.com/drive/folders/122cJmanBI6i2q-sbVGSOiOlK6q13NaMi",
+                "author": "路过哒雪",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Geo, Hatchling, HUD, Knight, OrbFull, VoidSpells, VS, Wraiths, HPBar",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Wind Elf Wendy",
+            "imagePath": "/skins/Wind%20Elf%20Wendy/preview.png",
+            "metadata": {
+                "name": "Wind Elf Wendy",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/981443029401497631",
+                "author": "林中雨燕",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, DreamNail, Hornet, HUD, Knight, OrbFill, Quirrel, Shriek, Sprint, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Wine Colour Knight",
+            "imagePath": "/skins/Wine%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Wine Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Winter",
+            "imagePath": "/skins/Winter/preview.png",
+            "metadata": {
+                "name": "Winter",
+                "source": "https://skins.hk-modding.org/share/Winter",
+                "author": "树滚",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Beam, Compass, DoubleJFeather, DreamArrival, DungRecharge, Geo, HitPt, HUD, Knight, Leak, Liquid, OrbFull, QOrbs (2x), ScrOrbs (2x), SDCrystalBurst, ShadowDashBlobs, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Xayah",
+            "imagePath": "/skins/Xayah/preview.png",
+            "metadata": {
+                "name": "Xayah",
+                "source": "https://skins.hk-modding.org/share/xayahbybushi",
+                "author": "bushi",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Hatchling, HUD, Knight, OrbFull, Shield, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Xero Knight",
+            "imagePath": "/skins/Xero%20Knight/preview.png",
+            "metadata": {
+                "name": "Xero Knight",
+                "source": "https://drive.google.com/drive/folders/1aC_2yAsNfjotmwpRvP9_Z7jiOFQNjjFo",
+                "author": "Flameshadow",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, Compass, DreamArrival, Dreamnail, Hatchling, HitPt, Hornet, HUD, Knight, Quirrel, Shade, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths, Deepnest_32, GG_Nosk, GG_Nosk_V, GG_Workshop, Room_Bretta, Room_Colosseum_01, Room_Final_Boss_Atrium, Tutorial_01, Waterways_15",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Yeah However (1.0)",
+            "imagePath": "/skins/Yeah%20However%20(1.0)/preview.png",
+            "metadata": {
+                "name": "Yeah However (1.0)",
+                "source": "https://discord.com/channels/879125729936298015/917259056270409759/948872830274113536",
+                "author": "DwarfWoot",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Beam, Birthplace, All Charms (x2), Cloak, Compass, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Fluke, Geo, Grimm, Hatchling, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, QOrbs, QOrbs2, Quirrel, ScrOrbs, ScrOrbs2, SDCrystalBurst, Shade, SahdeOrb, ShadowDashBlobs, Shield, Shriek, Slug, Spell Effects 2, Sprint, Unn, VoidSpells (x2), VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Yeah However (1.1)",
+            "imagePath": "/skins/Yeah%20However%20(1.1)/preview.png",
+            "metadata": {
+                "name": "Yeah However (1.1)",
+                "source": "https://discord.com/channels/879125729936298015/917259056270409759/948874762782916649",
+                "author": "DwarfWoot",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Beam, Birthplace, All Charms, Cloak, Compass, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Fluke, Geo, Grimm, Hatchling, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, QOrbs, QOrbs2, Quirrel, ScrOrbs, ScrOrbs2, SDCrystalBurst, Shade, Shadeorb, ShadowDashBlobs, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Yeah Whatever (3.0)",
+            "imagePath": "/skins/Yeah%20Whatever%20(3.0)/preview.png",
+            "metadata": {
+                "name": "Yeah Whatever (3.0)",
+                "source": "https://skins.hk-modding.org/share/Yeah-Whatever-3-0",
+                "author": "SFGrenade",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, Sprint,  Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Yeah Whatever (4.0)",
+            "imagePath": "/skins/Yeah%20Whatever%20(4.0)/preview.png",
+            "metadata": {
+                "name": "Yeah Whatever (4.0)",
+                "source": "https://skins.hk-modding.org/s/Yeah-Whatever-4-0",
+                "author": "SFGrenade",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, All Charms, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shade, ShadeOrb, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Yeah Whatever (4.1 - Trans Edition)",
+            "imagePath": "/skins/Yeah%20Whatever%20(4.1%20-%20Trans%20Edition)/preview.png",
+            "metadata": {
+                "name": "Yeah Whatever (4.1 - Trans Edition)",
+                "source": "https://skins.hk-modding.org/s/Yeah-Whatever-4-1-Trans-Edition",
+                "author": "SFGrenade",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, All Charms, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shade, ShadeOrb, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Yeah Whatever (5.0)",
+            "imagePath": "/skins/Yeah%20Whatever%20(5.0)/preview.png",
+            "metadata": {
+                "name": "Yeah Whatever (5.0)",
+                "source": "https://skins.hk-modding.org/share/Yeah-Whatever-5-0",
+                "author": "SFGrenade",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, All Charms, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shade, ShadeOrb, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Yeah Whatever (5.1 - Trans Edition)",
+            "imagePath": "/skins/Yeah%20Whatever%20(5.1%20-%20Trans%20Edition)/preview.png",
+            "metadata": {
+                "name": "Yeah Whatever (5.1 - Trans Edition)",
+                "source": "https://skins.hk-modding.org/share/Yeah-Whatever-5-1-Trans-Edition",
+                "author": "SFGrenade",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, All Charms, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shade, ShadeOrb, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Yeah Whatever (6.0)",
+            "imagePath": "/skins/Yeah%20Whatever%20(6.0)/preview.png",
+            "metadata": {
+                "name": "Yeah Whatever (6.0)",
+                "source": "https://skins.hk-modding.org/share/Yeah-Whatever-6-0",
+                "author": "SFGrenade",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, All Charms, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shade, ShadeOrb, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Yellow Among Us",
+            "imagePath": "/skins/Yellow%20Among%20Us/preview.png",
+            "metadata": {
+                "name": "Yellow Among Us",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1222360289471627274",
+                "author": "Ismoil",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Yellow Colour Knight",
+            "imagePath": "/skins/Yellow%20Colour%20Knight/preview.png",
+            "metadata": {
+                "name": "Yellow Colour Knight",
+                "source": "https://drive.google.com/drive/folders/1YkZuCvfStiWOuuYFT6nPJC_17gTgpVam?usp=drive_link",
+                "author": "Otogus",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Knight, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "ZagKnight (1.0)",
+            "imagePath": "/skins/ZagKnight%20(1.0)/preview.png",
+            "metadata": {
+                "name": "ZagKnight (v1.0)",
+                "source": "https://www.zagknight.com/download/original-zagknight",
+                "author": "artzfreak",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, All Charms, Cloak, Compass, DoubleJFeather, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, QOrbs (2x), Quirrel, ScrOrbs (2x), SDCrystalBurs, Shade, ShadeOrb, ShadowDashBlobs, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "ZagKnight (v2.0.04)",
+            "imagePath": "/skins/ZagKnight%20(v2.0.04)/preview.png",
+            "metadata": {
+                "name": "ZagKnight (v2.0.04)",
+                "source": "https://www.zagknight.com/download",
+                "author": "artzfreak",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, All Charms, Cloak, Compass, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Fluke, Geo, Grimm, Hatchling, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, QOrbs (2x), Quirrel, ScrOrbs (2x), SDCrystalBurs, Shade, ShadeOrb, ShadowDashBlobs, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Zote",
+            "imagePath": "/skins/Zote/preview.png",
+            "metadata": {
+                "name": "Zote",
+                "source": "https://drive.google.com/file/d/14g7G7ZQipI_8AN9f8-qZ08tC-taB5sk-/view",
+                "author": "DFTz",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "artzKnight",
+            "imagePath": "/skins/artzKnight/preview.png",
+            "metadata": {
+                "name": "artzKnight",
+                "source": "https://drive.google.com/drive/folders/1a1LrRkZ6TyXO4YvTqY2rrHYZl06HrQRc?usp=sharing",
+                "author": "artzfreak",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "pk skin (v1.0)",
+            "imagePath": "/skins/pk%20skin%20(v1.0)/preview.png",
+            "metadata": {
+                "name": "pk skin (v1.0)",
+                "source": "https://drive.google.com/file/d/1Mf4wHuQQcUcoUmQm50Zno2WSOhYsGpDk/view",
+                "author": "DeadBlack1",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Some Charms, Cloak, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Fluke, Geo, Hatchling, Hornet, HUD (x3), Knight, OrbFull, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells (x2), VS (x2), Weaver, Webbed, Wings, Wraiths, Inventory, GG_Nosk, Room_Bretta",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "pk skin (v1.1)",
+            "imagePath": "/skins/pk%20skin%20(v1.1)/preview.png",
+            "metadata": {
+                "name": "pk skin (v1.1)",
+                "source": "https://drive.google.com/file/d/1iO5TGeJt4BtbiCh2zRWzAjCa_eyGH6XQ/view",
+                "author": "DeadBlack1",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "AreaBackgrounds, Baldur, Birthplace, Some Charms, Cloak, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Fluke, Geo, Grimm, Hatchling, HitPt, Hornet, HUD, Inventory, Knight, Leak, OrbFull, QOrbs (2x), Quirrel, ScrOrbs (2x), SDCrystalBurst, ShadeOrb, Shade, ShadowDashBlobs, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths, Dream_Final_Boss, GG_Atrium, GG_Atrium_Roof, GG_Blue_Room, GG_Waterways, GG_Workshop, Room_Bretta, Room_Colosseum_01, Room_Queen, Tutorial_01, Waterways_15, HPBar, SaveHUD",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Abyss Watcher",
+            "imagePath": "/skins/Abyss%20Watcher/preview.png",
+            "metadata": {
+                "name": "Abyss Watcher",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1163839537064181770",
+                "author": "Figure-09-",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "Dawn (1.0)",
+            "imagePath": "/skins/Dawn%20(1.0)/preview.png",
+            "metadata": {
+                "name": "Dawn (1.0)",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1060681331589255208",
+                "author": "Lord Star Trail",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD, Knight, OrbFull, VoidSpells, VS, Wraiths",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "Light Moth",
+            "imagePath": "/skins/Light%20Moth/preview.png",
+            "metadata": {
+                "name": "Light Moth",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1094818362674135040",
+                "author": "",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "DreamArrival, DungRecharge, Hatchling, HUD, Icon, Knight, OrbFull1, OrbFull, SDCrystalBurst, Unn, VoidSpells, VS, Wraiths",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "Longevity Hope - Shirasawa Ike (1.0)",
+            "imagePath": "/skins/Longevity%20Hope%20-%20Shirasawa%20Ike%20(1.0)/preview.png",
+            "metadata": {
+                "name": "Longevity Hope - Shirasawa Ike (1.0)",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1060681502402285659",
+                "author": "卡混吃等死提",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Beam, Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shriek, SkullLeft, SkullRight, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "MantisLord Knight",
+            "imagePath": "/skins/MantisLord%20Knight/preview.png",
+            "metadata": {
+                "name": "MantisLord Knight",
+                "source": "https://discord.com/channels/283467363729408000/610754780461006848/1094818362674135040",
+                "author": "",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "DreamArrival, Fluke, Grimm, Hatchling, HitPt, HUD, Icon, Knight, Leak, OrbFull, SDCrystalBurst, ShadowDashBlobs, Sprint, VoidSpells, VS, Wraiths",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "AspidChild - Blue",
+            "imagePath": "/skins/AspidChild%20-%20Blue/preview.png",
+            "metadata": {
+                "name": "AspidChild - Blue",
+                "source": "https://drive.google.com/drive/folders/1adVJ7pSgI1qSP_Qx_Ff1u0R9mO0WniVt",
+                "author": "LichOne#5951",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "Grimm",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "AspidChild - Green",
+            "imagePath": "/skins/AspidChild%20-%20Green/preview.png",
+            "metadata": {
+                "name": "AspidChild - Green",
+                "source": "https://drive.google.com/drive/folders/1adVJ7pSgI1qSP_Qx_Ff1u0R9mO0WniVt",
+                "author": "LichOne#5951",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "Grimm",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "AspidChild - Infected",
+            "imagePath": "/skins/AspidChild%20-%20Infected/preview.png",
+            "metadata": {
+                "name": "AspidChild - Infected",
+                "source": "https://drive.google.com/drive/folders/1adVJ7pSgI1qSP_Qx_Ff1u0R9mO0WniVt",
+                "author": "LichOne#5951",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "Grimm",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "AspidChild - Red",
+            "imagePath": "/skins/AspidChild%20-%20Red/preview.png",
+            "metadata": {
+                "name": "AspidChild - Red",
+                "source": "https://drive.google.com/drive/folders/1adVJ7pSgI1qSP_Qx_Ff1u0R9mO0WniVt",
+                "author": "LichOne#5951",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "Grimm",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "Baldur Weavers",
+            "imagePath": "/skins/Baldur%20Weavers/preview.png",
+            "metadata": {
+                "name": "Baldur Weavers",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/949892875091574847",
+                "author": "路过哒雪",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "Weaver",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "Belfly Womblings",
+            "imagePath": "/skins/Belfly%20Womblings/preview.png",
+            "metadata": {
+                "name": "Belfly Womblings",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/964398627160203294",
+                "author": "XH-土星Saturn",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "Hatchling",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "Caihua Flame Black Method Spells",
+            "imagePath": "/skins/Caihua%20Flame%20Black%20Method%20Spells/preview.png",
+            "metadata": {
+                "name": "Caihua Flame Black Method Spells",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/950206325382602832",
+                "author": "陵川归藏",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "VoidSpells",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "CustomKnight HUDs - Blue & Orange",
+            "imagePath": "/skins/CustomKnight%20HUDs%20-%20Blue%20%26%20Orange/preview.png",
+            "metadata": {
+                "name": "CustomKnight HUDs - Blue & Orange",
+                "source": "https://drive.google.com/drive/folders/1VlXmvI6KT2vzsGItY2w3rHjeCFx8DN0n",
+                "author": "Shiga",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "HUD",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "CustomKnight HUDs - Gold",
+            "imagePath": "/skins/CustomKnight%20HUDs%20-%20Gold/preview.png",
+            "metadata": {
+                "name": "CustomKnight HUDs - Gold",
+                "source": "https://drive.google.com/drive/folders/1VlXmvI6KT2vzsGItY2w3rHjeCFx8DN0n",
+                "author": "Shiga",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "HUD",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "CustomKnight HUDs - Greenish",
+            "imagePath": "/skins/CustomKnight%20HUDs%20-%20Greenish/preview.png",
+            "metadata": {
+                "name": "CustomKnight HUDs - Greenish",
+                "source": "https://drive.google.com/drive/folders/1VlXmvI6KT2vzsGItY2w3rHjeCFx8DN0n",
+                "author": "Shiga",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "HUD",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "CustomKnight HUDs - Magenta",
+            "imagePath": "/skins/CustomKnight%20HUDs%20-%20Magenta/preview.png",
+            "metadata": {
+                "name": "CustomKnight HUDs - Magenta",
+                "source": "https://drive.google.com/drive/folders/1VlXmvI6KT2vzsGItY2w3rHjeCFx8DN0n",
+                "author": "Shiga",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "HUD",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "CustomKnight HUDs - Purple",
+            "imagePath": "/skins/CustomKnight%20HUDs%20-%20Purple/preview.png",
+            "metadata": {
+                "name": "CustomKnight HUDs - Purple",
+                "source": "https://drive.google.com/drive/folders/1VlXmvI6KT2vzsGItY2w3rHjeCFx8DN0n",
+                "author": "Shiga",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "HUD",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "CustomKnight HUDs - Rainbow",
+            "imagePath": "/skins/CustomKnight%20HUDs%20-%20Rainbow/preview.png",
+            "metadata": {
+                "name": "CustomKnight HUDs - Rainbow",
+                "source": "https://drive.google.com/drive/folders/1VlXmvI6KT2vzsGItY2w3rHjeCFx8DN0n",
+                "author": "Shiga",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "HUD",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "CustomKnight HUDs - Rainbow 2",
+            "imagePath": "/skins/CustomKnight%20HUDs%20-%20Rainbow%202/preview.png",
+            "metadata": {
+                "name": "CustomKnight HUDs - Rainbow 2",
+                "source": "https://drive.google.com/drive/folders/1VlXmvI6KT2vzsGItY2w3rHjeCFx8DN0n",
+                "author": "Shiga",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "HUD",
+                "dateAdded": "2025-05-30"
+            }
+        },
+        {
+            "subDir": "CustomKnight HUDs - Silver Grey",
+            "imagePath": "/skins/CustomKnight%20HUDs%20-%20Silver%20Grey/preview.png",
+            "metadata": {
+                "name": "CustomKnight HUDs - Silver/Grey",
+                "source": "https://drive.google.com/drive/folders/1VlXmvI6KT2vzsGItY2w3rHjeCFx8DN0n",
+                "author": "Shiga",
+                "game": "hollowKnight",
+                "type": "other",
+                "desc": "HUD",
+                "dateAdded": "2025-05-30"
+            }
+        }
+    ]
+}
