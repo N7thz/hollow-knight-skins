@@ -1,8 +1,6 @@
 import { Skin } from "@/actions/get-skins"
-import { Button } from "@/components/ui/button"
 import {
     Card,
-    CardAction,
     CardContent,
     CardDescription,
     CardFooter,
@@ -10,20 +8,25 @@ import {
     CardTitle,
 } from "@/components/ui/card"
 import Image from "next/image"
+import Link from "next/link"
+import { Button } from "./ui/button"
+import { Link2 } from "lucide-react"
 
 export const CardSkin = ({
     skin: {
         metadata: {
-            author, name
+            author, name, type, source
         },
         imagePath
     }
 }: { skin: Skin }) => {
     return (
-        <Card className="justify-between cursor-pointer hover:scale-95 duration-200">
+        <Card
+            className="justify-between cursor-pointer duration-200 drop-shadow-xl"
+        >
             <CardHeader>
                 <CardTitle>
-                    {name}
+                    {name} {type}
                 </CardTitle>
                 <CardDescription>
                     by {author}
@@ -38,12 +41,20 @@ export const CardSkin = ({
                     className="mx-auto"
                 />
             </CardContent>
-            <CardFooter>
-                <CardAction className="w-full">
-                    <Button className="w-full">
-                        See more
+            <CardFooter >
+                <Link
+                    href={source}
+                    target="_blank"
+                    className="w-full"
+                >
+                    <Button
+                        className="w-full cursor-pointer hover:scale-95" 
+                        variant="default"
+                    >
+                        <Link2 />
+                        View Source
                     </Button>
-                </CardAction>
+                </Link>
             </CardFooter>
         </Card>
     )

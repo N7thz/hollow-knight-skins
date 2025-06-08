@@ -1,11 +1,11 @@
 import type { Metadata } from "next"
 import { ThemeProvider } from "@/provider/theme-provider"
-import { JetBrains_Mono } from "next/font/google"
-import localFont from 'next/font/local'
+import { Lato } from "next/font/google"
 import "./globals.css"
 
-const trajan = localFont({
-  src: "../fonts/Trajan Pro Bold.ttf",
+const lato = Lato({
+  subsets: ["latin"],
+  weight: ["300", "400", "700"],
 })
 
 export const metadata: Metadata = {
@@ -23,10 +23,10 @@ export default function RootLayout({
       <html
         lang="en"
         suppressHydrationWarning
-        className={trajan.className}
+        className={lato.className}
       >
         <head />
-        <body>
+        <body className="h-dvh overflow-y-hidden antialiased flex">
           <ThemeProvider
             attribute="class"
             defaultTheme="system"

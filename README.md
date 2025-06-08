@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# HKSkins
 
-## Getting Started
+A repository of skins for *Hollow Knight* and its sequel, *Silksong*. Created and maintained by **Nathan Ferreira**. Learn more about this project on [my blog](#). Support the project through [PayPal](#).
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📜 Sources
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The skins were gathered from various corners of the internet. A special thanks to **ColetteMSLP** for compiling a detailed list and to the *Hollow Knight* Discord communities (**main** and **modding**) for dedicating countless hours to tracking down skin files.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Each skin in the list includes a link to its original source. If a link is broken, please let me know—all skins on this website are archived internally, and broken links can be replaced. You can reach me via:
 
-## Learn More
+- ✉️ **Email:** [nathanferreiradev@gmail.com](mailto:nathanferreiradev@gmail.com)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🎨 Skins
 
-## Deploy on Vercel
+Currently, the repository includes **303 skins** for the **Knight**, **Hornet**, and other sprites in the games.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+If you know of a skin that is not listed, feel free to request its addition via [GitHub Discussions](#) or by contacting me directly.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🔽 **Download the full list:**  
+You can download a `.zip` file containing a directory for each skin. Each directory includes a `metadata.json` file and a `preview.png` image. Skins that do not feature playable characters are not yet included in this archive, but are planned to be added later.
+
+---
+
+Let me know if you'd like any refinements or additional details. Hope this helps! 🚀
