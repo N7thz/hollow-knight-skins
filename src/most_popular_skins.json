@@ -1,0 +1,121 @@
+{
+    "data": [
+        {
+            "subDir": "Daughter of Hallownest (1.2)",
+            "imagePath": "/skins/Daughter%20of%20Hallownest%20(1.2)/preview.png",
+            "metadata": {
+                "name": "Daughter of Hallownest (1.2)",
+                "source": "https://discordapp.com/channels/283467363729408000/462200562620825600/944764222586376292",
+                "author": "",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Some Charms, Custom HP Bar, DreamArrival, Fluke, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Sprint, VoidSpells, VS, Webbed, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        },
+        {
+            "subDir": "Rick Knight",
+            "imagePath": "/skins/Rick%20Knight/preview.png",
+            "metadata": {
+                "name": "Rick Knight",
+                "source": "https://drive.google.com/drive/folders/1XN91xOXCI65y6gsrvXWzxBe62CuAs7Du",
+                "author": "Dish",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "DreamArrival, Fluke, Hatchling, HUD, Knight, OrbFull, Sprint, Unn, VoidSpells, VS, Wraiths",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "The Pale King",
+            "imagePath": "/skins/The%20Pale%20King/preview.png",
+            "metadata": {
+                "name": "The Pale King",
+                "source": "https://skins.hk-modding.org/share/aEzKfEpx",
+                "author": "lime",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Birthplace, Some Charms, Cloak, DreamArrival, Dreamnail, Hatchling, Hornet, HUD, Knight (x2), OrbFull, Quirrel, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Grimm Knight (复印纸)",
+            "imagePath": "/skins/Grimm%20Knight%20(%E5%A4%8D%E5%8D%B0%E7%BA%B8)/preview.png",
+            "metadata": {
+                "name": "Grimm Knight",
+                "source": "https://drive.google.com/drive/folders/1JWgG8bBY63lujFBvt7XKw1Y0R6WQH0Tz",
+                "author": "复印纸",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Hatchling, HUD (x2), Knight, OrbFull, Sprint, Unn, VoidSpells (x2), Vs, Wraiths",
+                "dateAdded": "2024-11-20"
+            }
+        },
+        {
+            "subDir": "Zote",
+            "imagePath": "/skins/Zote/preview.png",
+            "metadata": {
+                "name": "Zote",
+                "source": "https://drive.google.com/file/d/14g7G7ZQipI_8AN9f8-qZ08tC-taB5sk-/view",
+                "author": "DFTz",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Tanjirou",
+            "imagePath": "/skins/Tanjirou/preview.png",
+            "metadata": {
+                "name": "Tanjirou",
+                "source": "https://drive.google.com/drive/folders/1ejpGk9FX1C0Kkw4kIWzbYvyigPypmPHU",
+                "author": "写与",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "HUD (x2), Knight, OrbFull, Sprint, VoidSpells",
+                "dateAdded": "2024-12-19"
+            }
+        },
+        {
+            "subDir": "Pixel Knight (v2)",
+            "imagePath": "/skins/Pixel%20Knight%20(v2)/preview.png",
+            "metadata": {
+                "name": "Pixel Knight (v2)",
+                "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/741892763410235432",
+                "author": "wowee",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, Fluke, Grimm, Hatchling, HUD, Knight, OrbFull, Shield, Sprint, Unn, VoidSpells, VS, Weaver, Wraiths",
+                "dateAdded": "2024-12-16"
+            }
+        },
+        {
+            "subDir": "Among Us",
+            "imagePath": "/skins/Among%20Us/preview.png",
+            "metadata": {
+                "name": "Among Us",
+                "source": "https://drive.google.com/drive/folders/1rUFByniz3WhsWVsU1JqmzWMkXbXHrP4-",
+                "author": "草莓Amon",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Knight, Sprint, Wraiths",
+                "dateAdded": "2024-11-18"
+            }
+        },
+        {
+            "subDir": "Dead Cells",
+            "imagePath": "/skins/Dead%20Cells/preview.png",
+            "metadata": {
+                "name": "Dead Cells",
+                "source": "https://drive.google.com/file/d/1l5LU2ydZ-tEpJdf66pmWcsSihcaO9BfR/view",
+                "author": "knife美工刀",
+                "game": "hollowKnight",
+                "type": "character",
+                "desc": "Baldur, DreamArrival, Fluke, Geo, Grimm, Hatchling, HUD, Knight, OrbFull, Sprint, Unn, VoidSpells, Weaver, Wraiths",
+                "dateAdded": "2024-11-19"
+            }
+        }
+    ]
+}

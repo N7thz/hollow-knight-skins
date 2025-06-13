@@ -2,14 +2,14 @@
 
 import { Label } from "@/components/ui/label"
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group"
-import { Search } from "lucide-react"
-import { Button } from "@/components/ui/button"
-import { cn } from "@/lib/utils"
 import { useRouter } from "next/navigation"
+import { SearchSkin } from "./search-skin"
+import { SkinWithId } from "./all-skins"
 
-export const Radio = ({ defaultValue, page }: {
+export const Radio = ({ defaultValue, page, data }: {
     defaultValue: "all_skins" | "only_knight"
     page: number
+    data: SkinWithId[]
 }) => {
 
     const { push } = useRouter()
@@ -36,19 +36,7 @@ export const Radio = ({ defaultValue, page }: {
                     <Label htmlFor="all_skins">All Skins</Label>
                 </div>
             </RadioGroup>
-            <form className={cn(
-                "group w-1/3 flex items-center gap-2 border border-border rounded-lg p-2",
-                "focus-within:ring-2 transition-colors"
-            )}>
-                <Button type="submit" variant="ghost">
-                    <Search />
-                </Button>
-                <input
-                    type="search"
-                    placeholder="Search skins..."
-                    className="w-full outline-none"
-                />
-            </form>
+            <SearchSkin data={data} />
         </div>
     )
 }

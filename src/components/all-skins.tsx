@@ -1,8 +1,9 @@
 import { Skin } from "@/actions/get-skins"
 import { CardSkin } from "./card-skin"
 import { Card, CardHeader, CardTitle, CardContent } from "./ui/card"
+import { Title } from "./title"
 
-type SkinWithId = Skin & {
+export type SkinWithId = Skin & {
     id: string
 }
 
@@ -13,9 +14,9 @@ export const AllSkins = ({ data, type }: {
     return (
         <Card className="bg-transparent border-none">
             <CardHeader>
-                <CardTitle className="text-2xl font-bold text-center">
+                <Title>
                     {type === "all_skins" ? "All Skins" : "Knight Skins"}
-                </CardTitle>
+                </Title>
             </CardHeader>
             <CardContent className="p-6 grid grid-cols-5 gap-4">
                 {

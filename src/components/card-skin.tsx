@@ -15,18 +15,18 @@ import { Link2 } from "lucide-react"
 export const CardSkin = ({
     skin: {
         metadata: {
-            author, name, type, source
+            author, name, source
         },
         imagePath
     }
 }: { skin: Skin }) => {
     return (
         <Card
-            className="justify-between cursor-pointer duration-200 drop-shadow-xl"
+            className="justify-between cursor-pointer duration-200 drop-shadow-xl border-secondary max-w-xs"
         >
             <CardHeader>
                 <CardTitle>
-                    {name} {type}
+                    {name}
                 </CardTitle>
                 <CardDescription>
                     by {author}
@@ -48,7 +48,7 @@ export const CardSkin = ({
                     className="w-full"
                 >
                     <Button
-                        className="w-full cursor-pointer hover:scale-95" 
+                        className="w-full cursor-pointer hover:scale-95"
                         variant="default"
                     >
                         <Link2 />

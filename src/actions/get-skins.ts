@@ -8,7 +8,7 @@ export type Skin = typeof old_data[0]
 
 export async function getSkins({ itens, page = 1, type }: SearchParamsProps) {
 
-    const data = old_data.map((skin) => ({
+    const data = old_data.map(skin => ({
         id: randomUUID(),
         ...skin,
     }))

@@ -1,4 +1,4 @@
-# HKSkins
+# Hollow Knight Skins
 
 A repository of skins for *Hollow Knight* and its sequel, *Silksong*. Created and maintained by **Nathan Ferreira**. Learn more about this project on [my blog](#). Support the project through [PayPal](#).
 
